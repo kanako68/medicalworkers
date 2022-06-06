@@ -4,22 +4,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import sys,os
 
-if os.path.exists('./data.csv'):
-  df = pd.read_csv('data.csv')
-else:
-  # sp.call("wget https://raw.githubusercontent.com/kanako68/medicalworkers/main/data.csv")
-  df = pd.read_csv('https://raw.githubusercontent.com/kanako68/medicalworkers/main/data.csv')
-  import subprocess as sp
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import sys,os
 
-if os.path.exists('./data.csv'):
-  df = pd.read_csv('data.csv')
-else:
-  df = pd.read_csv('https://raw.githubusercontent.com/kanako68/medicalworkers/main/data.csv')
-  population = pd.read_csv('https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/CSV_FILES/WPP2019_TotalPopulationBySex.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/kanako68/medicalworkers/main/data.csv')
+population = pd.read_csv('https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/CSV_FILES/WPP2019_TotalPopulationBySex.csv')
   
 df = df[["Location","Period","FactValueNumeric"]]
 population = population[["Location","Time","PopTotal"]]
