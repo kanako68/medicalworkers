@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: medicalworkers
-Version: 0.0.1
+Version: 0.0.2
 Summary: A package for visualizing medical workers of up to 4 countries
 Home-page: https://github.com/kanako68/medicalworkers
 Author: kanako akamine
@@ -10,7 +10,12 @@ Project-URL: Bug Tracker, https://github.com/kanako68/medicalworkers
 Description: # medicalworkers
         
         一人の医療従事者につき、抱える国民の数を可視化するPython Packageです。
+        期間は2010年から2020年までの10年間で、最大4カ国まで可視化可能。
+        
         This Python Package visualizes the number of citizens held per healthcare professional.
+        The period is 10 years, from 2010 to 2020.
+        Up to 4 countries can be visualized.
+        
         
         ## Example of use
         
