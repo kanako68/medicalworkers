@@ -1,0 +1,1193 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,TCD,Chad,Year,2020,true,,,,,,,,,,,,,1003,,,,,,"1,003",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,IND,India,Year,2020,true,,,,,,,,,,,,,1014538,,,,,,"1,014,538",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,GUY,Guyana,Year,2020,true,,,,,,,,,,,,,1120,,,,,,"1,120",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MNE,Montenegro,Year,2020,true,,,,,,,,,,,,,1721,,,,,,"1,721",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2020,true,,,,,,,,,,,,,10000,,,,,,"10,000",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,TON,Tonga,Year,2020,true,,,,,,,,,,,,,100,,,,,,100,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2020,true,,,,,,,,,,,,,105293,,,,,,"105,293",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2020,true,,,,,,,,,,,,,108,,,,,,108,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2020,true,,,,,,,,,,,,,109874,,,,,,"109,874",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,COL,Colombia,Year,2020,true,,,,,,,,,,,,,118404,,,,,,"118,404",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2020,true,,,,,,,,,,,,,119,,,,,,119,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2020,true,,,,,,,,,,,,,12174,,,,,,"12,174",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2020,true,,,,,,,,,,,,,12516,,,,,,"12,516",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LTU,Lithuania,Year,2020,true,,,,,,,,,,,,,13819,,,,,,"13,819",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,TUV,Tuvalu,Year,2020,true,,,,,,,,,,,,,14,,,,,,14,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,POL,Poland,Year,2020,true,,,,,,,,,,,,,142712,,,,,,"142,712",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2020,true,,,,,,,,,,,,,16813,,,,,,"16,813",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2020,true,,,,,,,,,,,,,165,,,,,,165,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,IRL,Ireland,Year,2020,true,,,,,,,,,,,,,17231,,,,,,"17,231",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2020,true,,,,,,,,,,,,,17448,,,,,,"17,448",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2020,true,,,,,,,,,,,,,170338,,,,,,"170,338",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,ARG,Argentina,Year,2020,true,,,,,,,,,,,,,183475,,,,,,"183,475",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GMB,Gambia,Year,2020,true,,,,,,,,,,,,,199,,,,,,199,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2020,true,,,,,,,,,,,,,2575,,,,,,"2,575",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2020,true,,,,,,,,,,,,,2658,,,,,,"2,658",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2020,true,,,,,,,,,,,,,2957,,,,,,"2,957",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GEO,Georgia,Year,2020,true,,,,,,,,,,,,,20379,,,,,,"20,379",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2020,true,,,,,,,,,,,,,203907,,,,,,"203,907",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2020,true,,,,,,,,,,,,,22227,,,,,,"22,227",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ITA,Italy,Year,2020,true,,,,,,,,,,,,,238688,,,,,,"238,688",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2020,true,,,,,,,,,,,,,24814,,,,,,"24,814",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2020,true,,,,,,,,,,,,,26320,,,,,,"26,320",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NOR,Norway,Year,2020,true,,,,,,,,,,,,,27361,,,,,,"27,361",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2020,true,,,,,,,,,,,,,291,,,,,,291,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MUS,Mauritius,Year,2020,true,,,,,,,,,,,,,3450,,,,,,"3,450",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISR,Israel,Year,2020,true,,,,,,,,,,,,,31384,,,,,,"31,384",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,PLW,Palau,Year,2020,true,,,,,,,,,,,,,32,,,,,,32,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CHE,Switzerland,Year,2020,true,,,,,,,,,,,,,37911,,,,,,"37,911",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DEU,Germany,Year,2020,true,,,,,,,,,,,,,371562,,,,,,"371,562",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2020,true,,,,,,,,,,,,,38865,,,,,,"38,865",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2020,true,,,,,,,,,,,,,385,,,,,,385,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2020,true,,,,,,,,,,,,,385,,,,,,385,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,HND,Honduras,Year,2020,true,,,,,,,,,,,,,4953,,,,,,"4,953",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CZE,Czechia,Year,2020,true,,,,,,,,,,,,,44478,,,,,,"44,478",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AUT,Austria,Year,2020,true,,,,,,,,,,,,,47674,,,,,,"47,674",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GHA,Ghana,Year,2020,true,,,,,,,,,,,,,5285,,,,,,"5,285",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ALB,Albania,Year,2020,true,,,,,,,,,,,,,5397,,,,,,"5,397",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CHL,Chile,Year,2020,true,,,,,,,,,,,,,54196,,,,,,"54,196",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2020,true,,,,,,,,,,,,,557285,,,,,,"557,285",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HUN,Hungary,Year,2020,true,,,,,,,,,,,,,58577,,,,,,"58,577",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LVA,Latvia,Year,2020,true,,,,,,,,,,,,,6422,,,,,,"6,422",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2020,true,,,,,,,,,,,,,66301,,,,,,"66,301",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,TGO,Togo,Year,2020,true,,,,,,,,,,,,,685,,,,,,685,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NLD,Netherlands,Year,2020,true,,,,,,,,,,,,,69900,,,,,,"69,900",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,UGA,Uganda,Year,2020,true,,,,,,,,,,,,,7031,,,,,,"7,031",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,PRY,Paraguay,Year,2020,true,,,,,,,,,,,,,7500,,,,,,"7,500",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BEL,Belgium,Year,2020,true,,,,,,,,,,,,,70452,,,,,,"70,452",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2020,true,,,,,,,,,,,,,73973,,,,,,"73,973",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2020,true,,,,,,,,,,,,,76443,,,,,,"76,443",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,NER,Niger,Year,2020,true,,,,,,,,,,,,,835,,,,,,835,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2020,true,,,,,,,,,,,,,84678,,,,,,"84,678",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BDI,Burundi,Year,2020,true,,,,,,,,,,,,,852,,,,,,852,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2020,true,,,,,,,,,,,,,9058,,,,,,"9,058",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2020,true,,,,,,,,,,,,,9880,,,,,,"9,880",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2020,true,,,,,,,,,,,,,95336,,,,,,"95,336",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MWI,Malawi,Year,2020,true,,,,,,,,,,,,,958,,,,,,958,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2020,true,,,,,,,,,,,,,997,,,,,,997,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2019,true,,,,,,,,,,,,,1090,,,,,,"1,090",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISL,Iceland,Year,2019,true,,,,,,,,,,,,,1404,,,,,,"1,404",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SEN,Senegal,Year,2019,true,,,,,,,,,,,,,1435,,,,,,"1,435",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2019,true,,,,,,,,,,,,,1492,,,,,,"1,492",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MNE,Montenegro,Year,2019,false,,,,,,,,,,,,,1708,,,,,,"1,708",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2019,true,,,,,,,,,,,,,1910,,,,,,"1,910",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2019,false,,,,,,,,,,,,,10345,,,,,,"10,345",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2019,false,,,,,,,,,,,,,103809,,,,,,"103,809",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2019,true,,,,,,,,,,,,,105,,,,,,105,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,COL,Colombia,Year,2019,false,,,,,,,,,,,,,113372,,,,,,"113,372",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LTU,Lithuania,Year,2019,false,,,,,,,,,,,,,12768,,,,,,"12,768",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2019,false,,,,,,,,,,,,,125862,,,,,,"125,862",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2019,true,,,,,,,,,,,,,127258,,,,,,"127,258",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2019,true,,,,,,,,,,,,,14279,,,,,,"14,279",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HRV,Croatia,Year,2019,true,,,,,,,,,,,,,14312,,,,,,"14,312",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2019,true,,,,,,,,,,,,,15131,,,,,,"15,131",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2019,true,,,,,,,,,,,,,15591,,,,,,"15,591",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,IRL,Ireland,Year,2019,false,,,,,,,,,,,,,16366,,,,,,"16,366",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2019,false,,,,,,,,,,,,,16812,,,,,,"16,812",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TUR,Turkey,Year,2019,true,,,,,,,,,,,,,160810,,,,,,"160,810",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,ARG,Argentina,Year,2019,false,,,,,,,,,,,,,182189,,,,,,"182,189",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVK,Slovakia,Year,2019,true,,,,,,,,,,,,,19454,,,,,,"19,454",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2019,false,,,,,,,,,,,,,196463,,,,,,"196,463",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2019,false,,,,,,,,,,,,,2570,,,,,,"2,570",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ESP,Spain,Year,2019,true,,,,,,,,,,,,,207565,,,,,,"207,565",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,FRA,France,Year,2019,true,,,,,,,,,,,,,213201,,,,,,"213,201",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SYC,Seychelles,Year,2019,true,,,,,,,,,,,,,220,,,,,,220,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2019,false,,,,,,,,,,,,,23146,,,,,,"23,146",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2019,false,,,,,,,,,,,,,24605,,,,,,"24,605",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ITA,Italy,Year,2019,false,,,,,,,,,,,,,241945,,,,,,"241,945",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2019,true,,,,,,,,,,,,,242099,,,,,,"242,099",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2019,false,,,,,,,,,,,,,248,,,,,,248,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2019,true,,,,,,,,,,,,,25414,,,,,,"25,414",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GMB,Gambia,Year,2019,false,,,,,,,,,,,,,252,,,,,,252,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NOR,Norway,Year,2019,false,,,,,,,,,,,,,26572,,,,,,"26,572",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2019,true,,,,,,,,,,,,,26885,,,,,,"26,885",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GEO,Georgia,Year,2019,false,,,,,,,,,,,,,28291,,,,,,"28,291",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,CHN,China,Year,2019,true,,,,,,,,,,,,,3210515,,,,,,"3,210,515",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GHA,Ghana,Year,2019,false,,,,,,,,,,,,,3236,,,,,,"3,236",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MUS,Mauritius,Year,2019,false,,,,,,,,,,,,,3290,,,,,,"3,290",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CYP,Cyprus,Year,2019,true,,,,,,,,,,,,,3768,,,,,,"3,768",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISR,Israel,Year,2019,false,,,,,,,,,,,,,30483,,,,,,"30,483",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,MEX,Mexico,Year,2019,true,,,,,,,,,,,,,309414,,,,,,"309,414",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2019,true,,,,,,,,,,,,,31829,,,,,,"31,829",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HUN,Hungary,Year,2019,false,,,,,,,,,,,,,34137,,,,,,"34,137",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2019,false,,,,,,,,,,,,,351,,,,,,351,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BEL,Belgium,Year,2019,false,,,,,,,,,,,,,36343,,,,,,"36,343",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DEU,Germany,Year,2019,false,,,,,,,,,,,,,365100,,,,,,"365,100",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CHE,Switzerland,Year,2019,false,,,,,,,,,,,,,37300,,,,,,"37,300",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2019,true,,,,,,,,,,,,,39826,,,,,,"39,826",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2019,true,,,,,,,,,,,,,4173,,,,,,"4,173",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,EST,Estonia,Year,2019,true,,,,,,,,,,,,,4603,,,,,,"4,603",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ALB,Albania,Year,2019,false,,,,,,,,,,,,,4745,,,,,,"4,745",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BLR,Belarus,Year,2019,true,,,,,,,,,,,,,42897,,,,,,"42,897",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CZE,Czechia,Year,2019,false,,,,,,,,,,,,,43399,,,,,,"43,399",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2019,true,,,,,,,,,,,,,46393,,,,,,"46,393",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AUT,Austria,Year,2019,false,,,,,,,,,,,,,47224,,,,,,"47,224",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,BRA,Brazil,Year,2019,true,,,,,,,,,,,,,487659,,,,,,"487,659",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CHL,Chile,Year,2019,false,,,,,,,,,,,,,50439,,,,,,"50,439",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,PRT,Portugal,Year,2019,true,,,,,,,,,,,,,56077,,,,,,"56,077",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2019,true,,,,,,,,,,,,,580,,,,,,580,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2019,true,,,,,,,,,,,,,6244,,,,,,"6,244",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LVA,Latvia,Year,2019,false,,,,,,,,,,,,,6253,,,,,,"6,253",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVN,Slovenia,Year,2019,true,,,,,,,,,,,,,6812,,,,,,"6,812",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,PAN,Panama,Year,2019,true,,,,,,,,,,,,,6932,,,,,,"6,932",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2019,false,,,,,,,,,,,,,610249,,,,,,"610,249",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,TGO,Togo,Year,2019,false,,,,,,,,,,,,,627,,,,,,627,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2019,false,,,,,,,,,,,,,63974,,,,,,"63,974",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NLD,Netherlands,Year,2019,false,,,,,,,,,,,,,64438,,,,,,"64,438",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GRC,Greece,Year,2019,true,,,,,,,,,,,,,66058,,,,,,"66,058",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2019,false,,,,,,,,,,,,,67586,,,,,,"67,586",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SWE,Sweden,Year,2019,true,,,,,,,,,,,,,71179,,,,,,"71,179",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2019,false,,,,,,,,,,,,,74046,,,,,,"74,046",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2019,true,,,,,,,,,,,,,74923,,,,,,"74,923",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BEN,Benin,Year,2019,true,,,,,,,,,,,,,763,,,,,,763,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2019,false,,,,,,,,,,,,,8082,,,,,,"8,082",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,TCD,Chad,Year,2019,false,,,,,,,,,,,,,859,,,,,,859,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,NER,Niger,Year,2019,false,,,,,,,,,,,,,888,,,,,,888,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2019,false,,,,,,,,,,,,,9602,,,,,,"9,602",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CAN,Canada,Year,2019,true,,,,,,,,,,,,,91375,,,,,,"91,375",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2019,false,,,,,,,,,,,,,94333,,,,,,"94,333",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2019,false,,,,,,,,,,,,,97039,,,,,,"97,039",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2019,false,,,,,,,,,,,,,994,,,,,,994,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BDI,Burundi,Year,2018,false,,,,,,,,,,,,,1084,,,,,,"1,084",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GAB,Gabon,Year,2018,true,,,,,,,,,,,,,1368,,,,,,"1,368",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISL,Iceland,Year,2018,false,,,,,,,,,,,,,1373,,,,,,"1,373",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,GUY,Guyana,Year,2018,false,,,,,,,,,,,,,1417,,,,,,"1,417",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,NAM,Namibia,Year,2018,true,,,,,,,,,,,,,1445,,,,,,"1,445",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,JAM,Jamaica,Year,2018,true,,,,,,,,,,,,,1546,,,,,,"1,546",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2018,false,,,,,,,,,,,,,1648,,,,,,"1,648",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2018,false,,,,,,,,,,,,,1684,,,,,,"1,684",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MNE,Montenegro,Year,2018,false,,,,,,,,,,,,,1730,,,,,,"1,730",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,PSE,Occupied Palestinian territory,Year,2018,true,,,,,,,,,,,,,10417,,,,,,"10,417",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2018,true,,,,,,,,,,,,,10762,,,,,,"10,762",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,COL,Colombia,Year,2018,false,,,,,,,,,,,,,108499,,,,,,"108,499",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2018,false,,,,,,,,,,,,,11026,,,,,,"11,026",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2018,false,,,,,,,,,,,,,113518,,,,,,"113,518",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2018,true,,,,,,,,,,,,,12211,,,,,,"12,211",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LTU,Lithuania,Year,2018,false,,,,,,,,,,,,,12881,,,,,,"12,881",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2018,false,,,,,,,,,,,,,123230,,,,,,"123,230",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2018,true,,,,,,,,,,,,,129604,,,,,,"129,604",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2018,false,,,,,,,,,,,,,13766,,,,,,"13,766",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HRV,Croatia,Year,2018,false,,,,,,,,,,,,,14075,,,,,,"14,075",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2018,false,,,,,,,,,,,,,14431,,,,,,"14,431",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2018,false,,,,,,,,,,,,,14468,,,,,,"14,468",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2018,false,,,,,,,,,,,,,14984,,,,,,"14,984",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,KNA,Saint Kitts and Nevis,Year,2018,true,,,,,,,,,,,,,145,,,,,,145,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,IRL,Ireland,Year,2018,false,,,,,,,,,,,,,15962,,,,,,"15,962",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TUR,Turkey,Year,2018,false,,,,,,,,,,,,,153128,,,,,,"153,128",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2018,false,,,,,,,,,,,,,16224,,,,,,"16,224",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,GRD,Grenada,Year,2018,true,,,,,,,,,,,,,160,,,,,,160,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,UGA,Uganda,Year,2018,false,,,,,,,,,,,,,17186,,,,,,"17,186",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,SLV,El Salvador,Year,2018,true,,,,,,,,,,,,,18427,,,,,,"18,427",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ESP,Spain,Year,2018,false,,,,,,,,,,,,,188166,,,,,,"188,166",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2018,false,,,,,,,,,,,,,188295,,,,,,"188,295",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVK,Slovakia,Year,2018,false,,,,,,,,,,,,,19178,,,,,,"19,178",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ZMB,Zambia,Year,2018,true,,,,,,,,,,,,,2026,,,,,,"2,026",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MUS,Mauritius,Year,2018,false,,,,,,,,,,,,,2395,,,,,,"2,395",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MLI,Mali,Year,2018,true,,,,,,,,,,,,,2454,,,,,,"2,454",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2018,false,,,,,,,,,,,,,2473,,,,,,"2,473",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,HTI,Haiti,Year,2018,true,,,,,,,,,,,,,2606,,,,,,"2,606",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MWI,Malawi,Year,2018,false,,,,,,,,,,,,,2760,,,,,,"2,760",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GIN,Guinea,Year,2018,true,,,,,,,,,,,,,2787,,,,,,"2,787",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2018,true,,,,,,,,,,,,,2885,,,,,,"2,885",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2018,false,,,,,,,,,,,,,208007,,,,,,"208,007",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2018,false,,,,,,,,,,,,,21033,,,,,,"21,033",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2018,false,,,,,,,,,,,,,21316,,,,,,"21,316",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,FRA,France,Year,2018,false,,,,,,,,,,,,,210567,,,,,,"210,567",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,COM,Comoros,Year,2018,true,,,,,,,,,,,,,220,,,,,,220,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,AIA,Anguilla,Year,2018,true,,,,,,,,,,,,,23,,,,,,23,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DNK,Denmark,Year,2018,true,,,,,,,,,,,,,24301,,,,,,"24,301",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2018,false,,,,,,,,,,,,,24345,,,,,,"24,345",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SYC,Seychelles,Year,2018,false,,,,,,,,,,,,,240,,,,,,240,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ITA,Italy,Year,2018,false,,,,,,,,,,,,,240301,,,,,,"240,301",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,LBR,Liberia,Year,2018,true,,,,,,,,,,,,,246,,,,,,246,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,FIN,Finland,Year,2018,true,,,,,,,,,,,,,25627,,,,,,"25,627",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NOR,Norway,Year,2018,false,,,,,,,,,,,,,25804,,,,,,"25,804",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2018,false,,,,,,,,,,,,,27208,,,,,,"27,208",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2018,false,,,,,,,,,,,,,278,,,,,,278,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GEO,Georgia,Year,2018,false,,,,,,,,,,,,,28501,,,,,,"28,501",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2018,false,,,,,,,,,,,,,280,,,,,,280,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISR,Israel,Year,2018,false,,,,,,,,,,,,,29589,,,,,,"29,589",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2018,true,,,,,,,,,,,,,29667,,,,,,"29,667",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GMB,Gambia,Year,2018,false,,,,,,,,,,,,,298,,,,,,298,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,CHN,China,Year,2018,false,,,,,,,,,,,,,3010376,,,,,,"3,010,376",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2018,false,,,,,,,,,,,,,3026,,,,,,"3,026",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2018,true,,,,,,,,,,,,,3259,,,,,,"3,259",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CYP,Cyprus,Year,2018,false,,,,,,,,,,,,,3544,,,,,,"3,544",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,MEX,Mexico,Year,2018,false,,,,,,,,,,,,,305985,,,,,,"305,985",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2018,true,,,,,,,,,,,,,31546,,,,,,"31,546",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2018,true,,,,,,,,,,,,,315406,,,,,,"315,406",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2018,false,,,,,,,,,,,,,318,,,,,,318,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2018,false,,,,,,,,,,,,,32485,,,,,,"32,485",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2018,false,,,,,,,,,,,,,320,,,,,,320,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HUN,Hungary,Year,2018,false,,,,,,,,,,,,,33078,,,,,,"33,078",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2018,true,,,,,,,,,,,,,335,,,,,,335,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BEL,Belgium,Year,2018,false,,,,,,,,,,,,,35762,,,,,,"35,762",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DEU,Germany,Year,2018,false,,,,,,,,,,,,,357401,,,,,,"357,401",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2018,false,,,,,,,,,,,,,36363,,,,,,"36,363",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CHE,Switzerland,Year,2018,false,,,,,,,,,,,,,36940,,,,,,"36,940",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,NER,Niger,Year,2018,false,,,,,,,,,,,,,364,,,,,,364,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GHA,Ghana,Year,2018,false,,,,,,,,,,,,,4406,,,,,,"4,406",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,EST,Estonia,Year,2018,false,,,,,,,,,,,,,4605,,,,,,"4,605",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SSD,South Sudan,Year,2018,true,,,,,,,,,,,,,411,,,,,,411,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,BLZ,Belize,Year,2018,true,,,,,,,,,,,,,413,,,,,,413,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BLR,Belarus,Year,2018,false,,,,,,,,,,,,,42524,,,,,,"42,524",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CZE,Czechia,Year,2018,false,,,,,,,,,,,,,42919,,,,,,"42,919",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2018,false,,,,,,,,,,,,,43503,,,,,,"43,503",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,PER,Peru,Year,2018,true,,,,,,,,,,,,,43805,,,,,,"43,805",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SWE,Sweden,Year,2018,false,,,,,,,,,,,,,43930,,,,,,"43,930",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2018,true,,,,,,,,,,,,,452,,,,,,452,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AUT,Austria,Year,2018,false,,,,,,,,,,,,,46337,,,,,,"46,337",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,SUR,Suriname,Year,2018,true,,,,,,,,,,,,,472,,,,,,472,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CHL,Chile,Year,2018,false,,,,,,,,,,,,,48531,,,,,,"48,531",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2018,true,,,,,,,,,,,,,5230,,,,,,"5,230",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,PRT,Portugal,Year,2018,false,,,,,,,,,,,,,54478,,,,,,"54,478",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,COG,Congo,Year,2018,true,,,,,,,,,,,,,544,,,,,,544,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2018,false,,,,,,,,,,,,,55890,,,,,,"55,890",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2018,true,,,,,,,,,,,,,566,,,,,,566,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2018,false,,,,,,,,,,,,,599919,,,,,,"599,919",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2018,false,,,,,,,,,,,,,6122,,,,,,"6,122",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ALB,Albania,Year,2018,false,,,,,,,,,,,,,6222,,,,,,"6,222",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LVA,Latvia,Year,2018,false,,,,,,,,,,,,,6367,,,,,,"6,367",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVN,Slovenia,Year,2018,false,,,,,,,,,,,,,6591,,,,,,"6,591",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,AGO,Angola,Year,2018,true,,,,,,,,,,,,,6593,,,,,,"6,593",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,PAN,Panama,Year,2018,false,,,,,,,,,,,,,6706,,,,,,"6,706",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2018,true,,,,,,,,,,,,,6913,,,,,,"6,913",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2018,false,,,,,,,,,,,,,602,,,,,,602,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2018,false,,,,,,,,,,,,,61158,,,,,,"61,158",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,TGO,Togo,Year,2018,false,,,,,,,,,,,,,611,,,,,,611,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NLD,Netherlands,Year,2018,false,,,,,,,,,,,,,63278,,,,,,"63,278",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GRC,Greece,Year,2018,false,,,,,,,,,,,,,65513,,,,,,"65,513",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2018,false,,,,,,,,,,,,,7515,,,,,,"7,515",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,DZA,Algeria,Year,2018,true,,,,,,,,,,,,,72604,,,,,,"72,604",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2018,false,,,,,,,,,,,,,72877,,,,,,"72,877",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2018,true,,,,,,,,,,,,,74543,,,,,,"74,543",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2018,false,,,,,,,,,,,,,75686,,,,,,"75,686",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,DMA,Dominica,Year,2018,true,,,,,,,,,,,,,79,,,,,,79,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,KEN,Kenya,Year,2018,true,,,,,,,,,,,,,8042,,,,,,"8,042",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2018,false,,,,,,,,,,,,,8395,,,,,,"8,395",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,TCD,Chad,Year,2018,false,,,,,,,,,,,,,803,,,,,,803,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2018,true,,,,,,,,,,,,,821,,,,,,821,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BWA,Botswana,Year,2018,true,,,,,,,,,,,,,853,,,,,,853,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,USA,United States of America,Year,2018,true,,,,,,,,,,,,,853721,,,,,,"853,721",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2018,false,,,,,,,,,,,,,88023,,,,,,"88,023",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2018,false,,,,,,,,,,,,,881,,,,,,881,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CAN,Canada,Year,2018,false,,,,,,,,,,,,,89911,,,,,,"89,911",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,PRY,Paraguay,Year,2018,false,,,,,,,,,,,,,9421,,,,,,"9,421",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2018,false,,,,,,,,,,,,,9647,,,,,,"9,647",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2018,false,,,,,,,,,,,,,9674,,,,,,"9,674",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BEN,Benin,Year,2018,false,,,,,,,,,,,,,908,,,,,,908,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2018,false,,,,,,,,,,,,,916,,,,,,916,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,IND,India,Year,2018,false,,,,,,,,,,,,,927447,,,,,,"927,447",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2018,false,,,,,,,,,,,,,93604,,,,,,"93,604",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2018,false,,,,,,,,,,,,,93741,,,,,,"93,741",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CUB,Cuba,Year,2018,true,,,,,,,,,,,,,95466,,,,,,"95,466",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,LSO,Lesotho,Year,2018,true,,,,,,,,,,,,,998,,,,,,998,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SEN,Senegal,Year,2017,false,,,,,,,,,,,,,1066,,,,,,"1,066",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BDI,Burundi,Year,2017,false,,,,,,,,,,,,,1084,,,,,,"1,084",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISL,Iceland,Year,2017,false,,,,,,,,,,,,,1330,,,,,,"1,330",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GAB,Gabon,Year,2017,false,,,,,,,,,,,,,1408,,,,,,"1,408",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,NAM,Namibia,Year,2017,false,,,,,,,,,,,,,1421,,,,,,"1,421",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2017,false,,,,,,,,,,,,,1626,,,,,,"1,626",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2017,false,,,,,,,,,,,,,1648,,,,,,"1,648",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MNE,Montenegro,Year,2017,false,,,,,,,,,,,,,1659,,,,,,"1,659",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2017,true,,,,,,,,,,,,,1780,,,,,,"1,780",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2017,true,,,,,,,,,,,,,10683,,,,,,"10,683",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,COL,Colombia,Year,2017,false,,,,,,,,,,,,,103026,,,,,,"103,026",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2017,true,,,,,,,,,,,,,11528,,,,,,"11,528",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2017,true,,,,,,,,,,,,,116,,,,,,116,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LTU,Lithuania,Year,2017,false,,,,,,,,,,,,,12887,,,,,,"12,887",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ARM,Armenia,Year,2017,true,,,,,,,,,,,,,12964,,,,,,"12,964",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2017,false,,,,,,,,,,,,,120630,,,,,,"120,630",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2017,false,,,,,,,,,,,,,13018,,,,,,"13,018",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2017,false,,,,,,,,,,,,,13386,,,,,,"13,386",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2017,true,,,,,,,,,,,,,13757,,,,,,"13,757",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2017,false,,,,,,,,,,,,,13813,,,,,,"13,813",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HRV,Croatia,Year,2017,false,,,,,,,,,,,,,13885,,,,,,"13,885",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2017,false,,,,,,,,,,,,,14619,,,,,,"14,619",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2017,true,,,,,,,,,,,,,14892,,,,,,"14,892",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TUR,Turkey,Year,2017,false,,,,,,,,,,,,,149997,,,,,,"149,997",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2017,false,,,,,,,,,,,,,15656,,,,,,"15,656",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,IRL,Ireland,Year,2017,false,,,,,,,,,,,,,15660,,,,,,"15,660",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,GRD,Grenada,Year,2017,false,,,,,,,,,,,,,156,,,,,,156,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,URY,Uruguay,Year,2017,true,,,,,,,,,,,,,16976,,,,,,"16,976",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,ARG,Argentina,Year,2017,false,,,,,,,,,,,,,175313,,,,,,"175,313",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVK,Slovakia,Year,2017,false,,,,,,,,,,,,,18608,,,,,,"18,608",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ESP,Spain,Year,2017,false,,,,,,,,,,,,,180633,,,,,,"180,633",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2017,false,,,,,,,,,,,,,185692,,,,,,"185,692",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2017,false,,,,,,,,,,,,,19601,,,,,,"19,601",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2017,false,,,,,,,,,,,,,2180,,,,,,"2,180",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MLI,Mali,Year,2017,false,,,,,,,,,,,,,2247,,,,,,"2,247",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2017,false,,,,,,,,,,,,,2591,,,,,,"2,591",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2017,false,,,,,,,,,,,,,2646,,,,,,"2,646",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GHA,Ghana,Year,2017,false,,,,,,,,,,,,,2679,,,,,,"2,679",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,CHN,China,Year,2017,false,,,,,,,,,,,,,2828999,,,,,,"2,828,999",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,HND,Honduras,Year,2017,false,,,,,,,,,,,,,2913,,,,,,"2,913",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MUS,Mauritius,Year,2017,false,,,,,,,,,,,,,2927,,,,,,"2,927",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2017,false,,,,,,,,,,,,,208,,,,,,208,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2017,false,,,,,,,,,,,,,208007,,,,,,"208,007",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,FRA,France,Year,2017,false,,,,,,,,,,,,,210038,,,,,,"210,038",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2017,false,,,,,,,,,,,,,22739,,,,,,"22,739",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2017,false,,,,,,,,,,,,,224,,,,,,224,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2017,false,,,,,,,,,,,,,23107,,,,,,"23,107",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DNK,Denmark,Year,2017,false,,,,,,,,,,,,,23688,,,,,,"23,688",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GEO,Georgia,Year,2017,false,,,,,,,,,,,,,24572,,,,,,"24,572",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NOR,Norway,Year,2017,false,,,,,,,,,,,,,24986,,,,,,"24,986",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ITA,Italy,Year,2017,false,,,,,,,,,,,,,241512,,,,,,"241,512",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2017,false,,,,,,,,,,,,,25148,,,,,,"25,148",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,FIN,Finland,Year,2017,false,,,,,,,,,,,,,25289,,,,,,"25,289",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GMB,Gambia,Year,2017,false,,,,,,,,,,,,,252,,,,,,252,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2017,true,,,,,,,,,,,,,26003,,,,,,"26,003",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2017,true,,,,,,,,,,,,,264,,,,,,264,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISR,Israel,Year,2017,false,,,,,,,,,,,,,28679,,,,,,"28,679",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,MEX,Mexico,Year,2017,false,,,,,,,,,,,,,297307,,,,,,"297,307",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CYP,Cyprus,Year,2017,false,,,,,,,,,,,,,3325,,,,,,"3,325",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2017,false,,,,,,,,,,,,,300,,,,,,300,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2017,false,,,,,,,,,,,,,31451,,,,,,"31,451",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2017,false,,,,,,,,,,,,,31869,,,,,,"31,869",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HUN,Hungary,Year,2017,false,,,,,,,,,,,,,32543,,,,,,"32,543",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BEL,Belgium,Year,2017,false,,,,,,,,,,,,,35069,,,,,,"35,069",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DEU,Germany,Year,2017,false,,,,,,,,,,,,,351195,,,,,,"351,195",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CHE,Switzerland,Year,2017,false,,,,,,,,,,,,,36324,,,,,,"36,324",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,ECU,Ecuador,Year,2017,true,,,,,,,,,,,,,37263,,,,,,"37,263",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,EST,Estonia,Year,2017,false,,,,,,,,,,,,,4569,,,,,,"4,569",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2017,false,,,,,,,,,,,,,4657,,,,,,"4,657",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,GTM,Guatemala,Year,2017,false,,,,,,,,,,,,,4736,,,,,,"4,736",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BLR,Belarus,Year,2017,false,,,,,,,,,,,,,42038,,,,,,"42,038",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SWE,Sweden,Year,2017,false,,,,,,,,,,,,,42926,,,,,,"42,926",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,BLZ,Belize,Year,2017,false,,,,,,,,,,,,,422,,,,,,422,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CZE,Czechia,Year,2017,false,,,,,,,,,,,,,43283,,,,,,"43,283",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2017,false,,,,,,,,,,,,,44653,,,,,,"44,653",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CHL,Chile,Year,2017,false,,,,,,,,,,,,,45088,,,,,,"45,088",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AUT,Austria,Year,2017,false,,,,,,,,,,,,,45596,,,,,,"45,596",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,BRA,Brazil,Year,2017,false,,,,,,,,,,,,,450009,,,,,,"450,009",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2017,false,,,,,,,,,,,,,46110,,,,,,"46,110",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,NER,Niger,Year,2017,false,,,,,,,,,,,,,472,,,,,,472,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2017,true,,,,,,,,,,,,,50866,,,,,,"50,866",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2017,true,,,,,,,,,,,,,507,,,,,,507,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,PRT,Portugal,Year,2017,false,,,,,,,,,,,,,52718,,,,,,"52,718",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2017,false,,,,,,,,,,,,,55890,,,,,,"55,890",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2017,false,,,,,,,,,,,,,57831,,,,,,"57,831",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ROU,Romania,Year,2017,true,,,,,,,,,,,,,58583,,,,,,"58,583",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,TGO,Togo,Year,2017,false,,,,,,,,,,,,,583,,,,,,583,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2017,false,,,,,,,,,,,,,593211,,,,,,"593,211",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LVA,Latvia,Year,2017,false,,,,,,,,,,,,,6225,,,,,,"6,225",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2017,false,,,,,,,,,,,,,6318,,,,,,"6,318",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,AGO,Angola,Year,2017,false,,,,,,,,,,,,,6400,,,,,,"6,400",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVN,Slovenia,Year,2017,false,,,,,,,,,,,,,6408,,,,,,"6,408",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,PAN,Panama,Year,2017,false,,,,,,,,,,,,,6513,,,,,,"6,513",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,UGA,Uganda,Year,2017,false,,,,,,,,,,,,,6918,,,,,,"6,918",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NLD,Netherlands,Year,2017,false,,,,,,,,,,,,,61730,,,,,,"61,730",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2017,false,,,,,,,,,,,,,63141,,,,,,"63,141",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GRC,Greece,Year,2017,false,,,,,,,,,,,,,65240,,,,,,"65,240",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,TCD,Chad,Year,2017,false,,,,,,,,,,,,,651,,,,,,651,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,SUR,Suriname,Year,2017,false,,,,,,,,,,,,,676,,,,,,676,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2017,true,,,,,,,,,,,,,683,,,,,,683,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,BRB,Barbados,Year,2017,true,,,,,,,,,,,,,712,,,,,,712,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2017,false,,,,,,,,,,,,,72134,,,,,,"72,134",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,BHS,Bahamas,Year,2017,true,,,,,,,,,,,,,740,,,,,,740,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2017,false,,,,,,,,,,,,,77083,,,,,,"77,083",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2017,false,,,,,,,,,,,,,791,,,,,,791,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,PSE,Occupied Palestinian territory,Year,2017,false,,,,,,,,,,,,,8339,,,,,,"8,339",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2017,false,,,,,,,,,,,,,8744,,,,,,"8,744",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,DMA,Dominica,Year,2017,false,,,,,,,,,,,,,80,,,,,,80,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2017,false,,,,,,,,,,,,,83966,,,,,,"83,966",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2017,false,,,,,,,,,,,,,86754,,,,,,"86,754",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2017,false,,,,,,,,,,,,,868,,,,,,868,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2017,false,,,,,,,,,,,,,9132,,,,,,"9,132",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,POL,Poland,Year,2017,false,,,,,,,,,,,,,90284,,,,,,"90,284",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2017,false,,,,,,,,,,,,,90417,,,,,,"90,417",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2017,false,,,,,,,,,,,,,91101,,,,,,"91,101",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2017,true,,,,,,,,,,,,,93667,,,,,,"93,667",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2017,false,,,,,,,,,,,,,933,,,,,,933,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CUB,Cuba,Year,2017,false,,,,,,,,,,,,,94059,,,,,,"94,059",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2017,false,,,,,,,,,,,,,99703,,,,,,"99,703",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SEN,Senegal,Year,2016,false,,,,,,,,,,,,,1154,,,,,,"1,154",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2016,false,,,,,,,,,,,,,1202,,,,,,"1,202",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISL,Iceland,Year,2016,false,,,,,,,,,,,,,1292,,,,,,"1,292",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,JAM,Jamaica,Year,2016,false,,,,,,,,,,,,,1322,,,,,,"1,322",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2016,false,,,,,,,,,,,,,1431,,,,,,"1,431",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ZMB,Zambia,Year,2016,false,,,,,,,,,,,,,1514,,,,,,"1,514",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MNE,Montenegro,Year,2016,false,,,,,,,,,,,,,1616,,,,,,"1,616",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2016,false,,,,,,,,,,,,,1683,,,,,,"1,683",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2016,false,,,,,,,,,,,,,107,,,,,,107,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2016,false,,,,,,,,,,,,,117450,,,,,,"117,450",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LTU,Lithuania,Year,2016,false,,,,,,,,,,,,,12812,,,,,,"12,812",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2016,false,,,,,,,,,,,,,12967,,,,,,"12,967",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2016,true,,,,,,,,,,,,,120,,,,,,120,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HRV,Croatia,Year,2016,false,,,,,,,,,,,,,13504,,,,,,"13,504",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2016,false,,,,,,,,,,,,,13506,,,,,,"13,506",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,URY,Uruguay,Year,2016,false,,,,,,,,,,,,,13545,,,,,,"13,545",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2016,false,,,,,,,,,,,,,13935,,,,,,"13,935",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2016,false,,,,,,,,,,,,,14507,,,,,,"14,507",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2016,false,,,,,,,,,,,,,14688,,,,,,"14,688",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TUR,Turkey,Year,2016,false,,,,,,,,,,,,,144827,,,,,,"144,827",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,IRL,Ireland,Year,2016,false,,,,,,,,,,,,,15178,,,,,,"15,178",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2016,false,,,,,,,,,,,,,17542,,,,,,"17,542",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,ARG,Argentina,Year,2016,false,,,,,,,,,,,,,174092,,,,,,"174,092",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ESP,Spain,Year,2016,false,,,,,,,,,,,,,177731,,,,,,"177,731",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2016,false,,,,,,,,,,,,,18761,,,,,,"18,761",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVK,Slovakia,Year,2016,false,,,,,,,,,,,,,18864,,,,,,"18,864",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2016,false,,,,,,,,,,,,,182737,,,,,,"182,737",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2016,false,,,,,,,,,,,,,195896,,,,,,"195,896",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MLI,Mali,Year,2016,false,,,,,,,,,,,,,2247,,,,,,"2,247",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CYP,Cyprus,Year,2016,false,,,,,,,,,,,,,2283,,,,,,"2,283",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2016,false,,,,,,,,,,,,,2508,,,,,,"2,508",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,CHN,China,Year,2016,false,,,,,,,,,,,,,2651398,,,,,,"2,651,398",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MUS,Mauritius,Year,2016,false,,,,,,,,,,,,,2769,,,,,,"2,769",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SYC,Seychelles,Year,2016,false,,,,,,,,,,,,,203,,,,,,203,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,FRA,France,Year,2016,false,,,,,,,,,,,,,208266,,,,,,"208,266",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2016,false,,,,,,,,,,,,,22195,,,,,,"22,195",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2016,true,,,,,,,,,,,,,22485,,,,,,"22,485",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DNK,Denmark,Year,2016,false,,,,,,,,,,,,,22902,,,,,,"22,902",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2016,false,,,,,,,,,,,,,226,,,,,,226,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2016,false,,,,,,,,,,,,,227,,,,,,227,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NOR,Norway,Year,2016,false,,,,,,,,,,,,,23986,,,,,,"23,986",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ITA,Italy,Year,2016,false,,,,,,,,,,,,,239642,,,,,,"239,642",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GEO,Georgia,Year,2016,false,,,,,,,,,,,,,24082,,,,,,"24,082",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,FIN,Finland,Year,2016,false,,,,,,,,,,,,,24928,,,,,,"24,928",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SRB,Serbia,Year,2016,true,,,,,,,,,,,,,27563,,,,,,"27,563",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISR,Israel,Year,2016,false,,,,,,,,,,,,,28090,,,,,,"28,090",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,MEX,Mexico,Year,2016,false,,,,,,,,,,,,,286675,,,,,,"286,675",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2016,false,,,,,,,,,,,,,299,,,,,,299,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ALB,Albania,Year,2016,false,,,,,,,,,,,,,3511,,,,,,"3,511",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GHA,Ghana,Year,2016,false,,,,,,,,,,,,,3618,,,,,,"3,618",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2016,false,,,,,,,,,,,,,30691,,,,,,"30,691",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2016,false,,,,,,,,,,,,,308105,,,,,,"308,105",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2016,false,,,,,,,,,,,,,31250,,,,,,"31,250",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HUN,Hungary,Year,2016,false,,,,,,,,,,,,,31515,,,,,,"31,515",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2016,false,,,,,,,,,,,,,32189,,,,,,"32,189",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2016,false,,,,,,,,,,,,,32861,,,,,,"32,861",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,ECU,Ecuador,Year,2016,false,,,,,,,,,,,,,33589,,,,,,"33,589",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BEL,Belgium,Year,2016,false,,,,,,,,,,,,,34834,,,,,,"34,834",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DEU,Germany,Year,2016,false,,,,,,,,,,,,,344755,,,,,,"344,755",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,TGO,Togo,Year,2016,false,,,,,,,,,,,,,347,,,,,,347,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CHE,Switzerland,Year,2016,false,,,,,,,,,,,,,35592,,,,,,"35,592",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,EST,Estonia,Year,2016,false,,,,,,,,,,,,,4548,,,,,,"4,548",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,PER,Peru,Year,2016,false,,,,,,,,,,,,,40352,,,,,,"40,352",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2016,false,,,,,,,,,,,,,408,,,,,,408,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BLR,Belarus,Year,2016,false,,,,,,,,,,,,,41517,,,,,,"41,517",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CHL,Chile,Year,2016,false,,,,,,,,,,,,,41767,,,,,,"41,767",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SWE,Sweden,Year,2016,false,,,,,,,,,,,,,42007,,,,,,"42,007",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CZE,Czechia,Year,2016,false,,,,,,,,,,,,,42682,,,,,,"42,682",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ZAF,South Africa,Year,2016,false,,,,,,,,,,,,,43141,,,,,,"43,141",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ROU,Romania,Year,2016,false,,,,,,,,,,,,,44670,,,,,,"44,670",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AUT,Austria,Year,2016,false,,,,,,,,,,,,,44816,,,,,,"44,816",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2016,true,,,,,,,,,,,,,46,,,,,,46,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,HND,Honduras,Year,2016,false,,,,,,,,,,,,,5546,,,,,,"5,546",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2016,false,,,,,,,,,,,,,50087,,,,,,"50,087",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,PRT,Portugal,Year,2016,false,,,,,,,,,,,,,51005,,,,,,"51,005",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BEN,Benin,Year,2016,false,,,,,,,,,,,,,523,,,,,,523,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,COG,Congo,Year,2016,false,,,,,,,,,,,,,530,,,,,,530,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MWI,Malawi,Year,2016,false,,,,,,,,,,,,,539,,,,,,539,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,TCD,Chad,Year,2016,false,,,,,,,,,,,,,540,,,,,,540,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2016,false,,,,,,,,,,,,,577856,,,,,,"577,856",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2016,false,,,,,,,,,,,,,6012,,,,,,"6,012",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVN,Slovenia,Year,2016,false,,,,,,,,,,,,,6224,,,,,,"6,224",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LVA,Latvia,Year,2016,false,,,,,,,,,,,,,6295,,,,,,"6,295",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,PAN,Panama,Year,2016,false,,,,,,,,,,,,,6338,,,,,,"6,338",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NLD,Netherlands,Year,2016,false,,,,,,,,,,,,,60233,,,,,,"60,233",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,SUR,Suriname,Year,2016,false,,,,,,,,,,,,,639,,,,,,639,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GRC,Greece,Year,2016,false,,,,,,,,,,,,,65972,,,,,,"65,972",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2016,false,,,,,,,,,,,,,67,,,,,,67,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,NER,Niger,Year,2016,false,,,,,,,,,,,,,681,,,,,,681,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2016,false,,,,,,,,,,,,,7152,,,,,,"7,152",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GAB,Gabon,Year,2016,false,,,,,,,,,,,,,715,,,,,,715,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,DZA,Algeria,Year,2016,false,,,,,,,,,,,,,74309,,,,,,"74,309",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2016,false,,,,,,,,,,,,,74611,,,,,,"74,611",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2016,false,,,,,,,,,,,,,77138,,,,,,"77,138",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2016,true,,,,,,,,,,,,,77539,,,,,,"77,539",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2016,false,,,,,,,,,,,,,77579,,,,,,"77,579",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2016,false,,,,,,,,,,,,,78572,,,,,,"78,572",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2016,false,,,,,,,,,,,,,8622,,,,,,"8,622",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2016,false,,,,,,,,,,,,,8739,,,,,,"8,739",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2016,false,,,,,,,,,,,,,83565,,,,,,"83,565",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BWA,Botswana,Year,2016,false,,,,,,,,,,,,,830,,,,,,830,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2016,false,,,,,,,,,,,,,86550,,,,,,"86,550",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2016,false,,,,,,,,,,,,,9842,,,,,,"9,842",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,SLV,El Salvador,Year,2016,false,,,,,,,,,,,,,9955,,,,,,"9,955",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CUB,Cuba,Year,2016,false,,,,,,,,,,,,,90161,,,,,,"90,161",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,POL,Poland,Year,2016,false,,,,,,,,,,,,,91730,,,,,,"91,730",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2016,false,,,,,,,,,,,,,93667,,,,,,"93,667",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,COL,Colombia,Year,2016,false,,,,,,,,,,,,,97966,,,,,,"97,966",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GIN,Guinea,Year,2016,false,,,,,,,,,,,,,977,,,,,,977,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2015,false,,,,,,,,,,,,,1189,,,,,,"1,189",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,JAM,Jamaica,Year,2015,false,,,,,,,,,,,,,1199,,,,,,"1,199",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MLT,Malta,Year,2015,true,,,,,,,,,,,,,1240,,,,,,"1,240",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISL,Iceland,Year,2015,false,,,,,,,,,,,,,1249,,,,,,"1,249",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2015,true,,,,,,,,,,,,,1270,,,,,,"1,270",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2015,false,,,,,,,,,,,,,1284,,,,,,"1,284",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MNE,Montenegro,Year,2015,false,,,,,,,,,,,,,1490,,,,,,"1,490",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2015,false,,,,,,,,,,,,,1656,,,,,,"1,656",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MLI,Mali,Year,2015,false,,,,,,,,,,,,,1750,,,,,,"1,750",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2015,false,,,,,,,,,,,,,10110,,,,,,"10,110",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2015,false,,,,,,,,,,,,,10150,,,,,,"10,150",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2015,false,,,,,,,,,,,,,114322,,,,,,"114,322",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2015,false,,,,,,,,,,,,,12158,,,,,,"12,158",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2015,false,,,,,,,,,,,,,12459,,,,,,"12,459",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LTU,Lithuania,Year,2015,false,,,,,,,,,,,,,12605,,,,,,"12,605",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2015,false,,,,,,,,,,,,,13243,,,,,,"13,243",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HRV,Croatia,Year,2015,false,,,,,,,,,,,,,13430,,,,,,"13,430",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2015,false,,,,,,,,,,,,,13738,,,,,,"13,738",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2015,false,,,,,,,,,,,,,13983,,,,,,"13,983",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,KNA,Saint Kitts and Nevis,Year,2015,false,,,,,,,,,,,,,137,,,,,,137,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2015,true,,,,,,,,,,,,,14,,,,,,14,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2015,false,,,,,,,,,,,,,14655,,,,,,"14,655",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,IRL,Ireland,Year,2015,false,,,,,,,,,,,,,14666,,,,,,"14,666",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TUR,Turkey,Year,2015,false,,,,,,,,,,,,,141259,,,,,,"141,259",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2015,false,,,,,,,,,,,,,15845,,,,,,"15,845",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,LBR,Liberia,Year,2015,false,,,,,,,,,,,,,168,,,,,,168,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,ARG,Argentina,Year,2015,false,,,,,,,,,,,,,171870,,,,,,"171,870",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ESP,Spain,Year,2015,false,,,,,,,,,,,,,178600,,,,,,"178,600",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2015,false,,,,,,,,,,,,,18032,,,,,,"18,032",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,FIN,Finland,Year,2015,false,,,,,,,,,,,,,18257,,,,,,"18,257",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVK,Slovakia,Year,2015,false,,,,,,,,,,,,,18719,,,,,,"18,719",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2015,false,,,,,,,,,,,,,180888,,,,,,"180,888",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2015,false,,,,,,,,,,,,,184711,,,,,,"184,711",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2015,false,,,,,,,,,,,,,2508,,,,,,"2,508",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,CHN,China,Year,2015,false,,,,,,,,,,,,,2508408,,,,,,"2,508,408",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MUS,Mauritius,Year,2015,false,,,,,,,,,,,,,2550,,,,,,"2,550",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GEO,Georgia,Year,2015,false,,,,,,,,,,,,,20143,,,,,,"20,143",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2015,false,,,,,,,,,,,,,20481,,,,,,"20,481",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,FRA,France,Year,2015,false,,,,,,,,,,,,,206710,,,,,,"206,710",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SRB,Serbia,Year,2015,false,,,,,,,,,,,,,21840,,,,,,"21,840",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2015,false,,,,,,,,,,,,,212,,,,,,212,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GMB,Gambia,Year,2015,false,,,,,,,,,,,,,213,,,,,,213,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DNK,Denmark,Year,2015,false,,,,,,,,,,,,,22332,,,,,,"22,332",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NOR,Norway,Year,2015,false,,,,,,,,,,,,,23104,,,,,,"23,104",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ITA,Italy,Year,2015,false,,,,,,,,,,,,,233102,,,,,,"233,102",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2015,false,,,,,,,,,,,,,251,,,,,,251,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2015,false,,,,,,,,,,,,,26019,,,,,,"26,019",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AND,Andorra,Year,2015,true,,,,,,,,,,,,,260,,,,,,260,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISR,Israel,Year,2015,false,,,,,,,,,,,,,27627,,,,,,"27,627",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,MEX,Mexico,Year,2015,false,,,,,,,,,,,,,283275,,,,,,"283,275",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2015,false,,,,,,,,,,,,,29038,,,,,,"29,038",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SEN,Senegal,Year,2015,false,,,,,,,,,,,,,3023,,,,,,"3,023",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CYP,Cyprus,Year,2015,false,,,,,,,,,,,,,3046,,,,,,"3,046",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GHA,Ghana,Year,2015,false,,,,,,,,,,,,,3263,,,,,,"3,263",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2015,false,,,,,,,,,,,,,3631,,,,,,"3,631",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,UGA,Uganda,Year,2015,false,,,,,,,,,,,,,3645,,,,,,"3,645",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HUN,Hungary,Year,2015,false,,,,,,,,,,,,,30486,,,,,,"30,486",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2015,false,,,,,,,,,,,,,31959,,,,,,"31,959",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2015,false,,,,,,,,,,,,,32458,,,,,,"32,458",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2015,false,,,,,,,,,,,,,324,,,,,,324,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,ECU,Ecuador,Year,2015,false,,,,,,,,,,,,,33474,,,,,,"33,474",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DEU,Germany,Year,2015,false,,,,,,,,,,,,,338129,,,,,,"338,129",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BEL,Belgium,Year,2015,false,,,,,,,,,,,,,34020,,,,,,"34,020",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CHE,Switzerland,Year,2015,false,,,,,,,,,,,,,34762,,,,,,"34,762",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2015,false,,,,,,,,,,,,,354,,,,,,354,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,TGO,Togo,Year,2015,false,,,,,,,,,,,,,361,,,,,,361,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CHL,Chile,Year,2015,false,,,,,,,,,,,,,38580,,,,,,"38,580",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,EST,Estonia,Year,2015,false,,,,,,,,,,,,,4492,,,,,,"4,492",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SWE,Sweden,Year,2015,false,,,,,,,,,,,,,40914,,,,,,"40,914",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CZE,Czechia,Year,2015,false,,,,,,,,,,,,,41893,,,,,,"41,893",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2015,false,,,,,,,,,,,,,410,,,,,,410,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AUT,Austria,Year,2015,false,,,,,,,,,,,,,44292,,,,,,"44,292",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2015,false,,,,,,,,,,,,,46491,,,,,,"46,491",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BLR,Belarus,Year,2015,false,,,,,,,,,,,,,48995,,,,,,"48,995",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,PRT,Portugal,Year,2015,false,,,,,,,,,,,,,49236,,,,,,"49,236",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2015,false,,,,,,,,,,,,,5795,,,,,,"5,795",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVN,Slovenia,Year,2015,false,,,,,,,,,,,,,5830,,,,,,"5,830",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2015,true,,,,,,,,,,,,,5975,,,,,,"5,975",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BDI,Burundi,Year,2015,false,,,,,,,,,,,,,508,,,,,,508,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2015,false,,,,,,,,,,,,,570260,,,,,,"570,260",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,SUR,Suriname,Year,2015,false,,,,,,,,,,,,,585,,,,,,585,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NLD,Netherlands,Year,2015,false,,,,,,,,,,,,,59144,,,,,,"59,144",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,PAN,Panama,Year,2015,false,,,,,,,,,,,,,6254,,,,,,"6,254",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LVA,Latvia,Year,2015,false,,,,,,,,,,,,,6324,,,,,,"6,324",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2015,false,,,,,,,,,,,,,63,,,,,,63,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GRC,Greece,Year,2015,false,,,,,,,,,,,,,63866,,,,,,"63,866",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,NER,Niger,Year,2015,false,,,,,,,,,,,,,634,,,,,,634,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2015,false,,,,,,,,,,,,,69722,,,,,,"69,722",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2015,false,,,,,,,,,,,,,692,,,,,,692,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,TCD,Chad,Year,2015,false,,,,,,,,,,,,,696,,,,,,696,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2015,true,,,,,,,,,,,,,7413,,,,,,"7,413",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2015,false,,,,,,,,,,,,,70735,,,,,,"70,735",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2015,false,,,,,,,,,,,,,73797,,,,,,"73,797",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2015,false,,,,,,,,,,,,,739,,,,,,739,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2015,true,,,,,,,,,,,,,747,,,,,,747,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2015,false,,,,,,,,,,,,,75915,,,,,,"75,915",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2015,false,,,,,,,,,,,,,75960,,,,,,"75,960",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ARM,Armenia,Year,2015,false,,,,,,,,,,,,,8526,,,,,,"8,526",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2015,false,,,,,,,,,,,,,8914,,,,,,"8,914",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2015,false,,,,,,,,,,,,,83490,,,,,,"83,490",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2015,false,,,,,,,,,,,,,831,,,,,,831,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CUB,Cuba,Year,2015,false,,,,,,,,,,,,,87982,,,,,,"87,982",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,POL,Poland,Year,2015,false,,,,,,,,,,,,,88437,,,,,,"88,437",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2015,false,,,,,,,,,,,,,9653,,,,,,"9,653",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2015,false,,,,,,,,,,,,,9808,,,,,,"9,808",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2015,false,,,,,,,,,,,,,90470,,,,,,"90,470",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,HTI,Haiti,Year,2015,false,,,,,,,,,,,,,911,,,,,,911,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,COL,Colombia,Year,2015,false,,,,,,,,,,,,,93815,,,,,,"93,815",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GIN,Guinea,Year,2015,false,,,,,,,,,,,,,977,,,,,,977,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2014,false,,,,,,,,,,,,,1008,,,,,,"1,008",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,JAM,Jamaica,Year,2014,false,,,,,,,,,,,,,1092,,,,,,"1,092",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MLT,Malta,Year,2014,false,,,,,,,,,,,,,1144,,,,,,"1,144",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISL,Iceland,Year,2014,false,,,,,,,,,,,,,1193,,,,,,"1,193",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2014,false,,,,,,,,,,,,,1279,,,,,,"1,279",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MNE,Montenegro,Year,2014,false,,,,,,,,,,,,,1370,,,,,,"1,370",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2014,false,,,,,,,,,,,,,1602,,,,,,"1,602",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2014,false,,,,,,,,,,,,,1685,,,,,,"1,685",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MLI,Mali,Year,2014,false,,,,,,,,,,,,,1750,,,,,,"1,750",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GIN,Guinea,Year,2014,false,,,,,,,,,,,,,1844,,,,,,"1,844",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,TUV,Tuvalu,Year,2014,false,,,,,,,,,,,,,10,,,,,,10,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2014,false,,,,,,,,,,,,,10080,,,,,,"10,080",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2014,false,,,,,,,,,,,,,11733,,,,,,"11,733",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2014,false,,,,,,,,,,,,,111694,,,,,,"111,694",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2014,false,,,,,,,,,,,,,116536,,,,,,"116,536",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2014,true,,,,,,,,,,,,,12161,,,,,,"12,161",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LTU,Lithuania,Year,2014,false,,,,,,,,,,,,,12631,,,,,,"12,631",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2014,false,,,,,,,,,,,,,12676,,,,,,"12,676",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2014,true,,,,,,,,,,,,,12934,,,,,,"12,934",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2014,false,,,,,,,,,,,,,12982,,,,,,"12,982",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2014,false,,,,,,,,,,,,,13065,,,,,,"13,065",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2014,false,,,,,,,,,,,,,13095,,,,,,"13,095",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HRV,Croatia,Year,2014,false,,,,,,,,,,,,,13302,,,,,,"13,302",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2014,true,,,,,,,,,,,,,13560,,,,,,"13,560",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,UKR,Ukraine,Year,2014,true,,,,,,,,,,,,,134986,,,,,,"134,986",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TUR,Turkey,Year,2014,false,,,,,,,,,,,,,135616,,,,,,"135,616",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,IRL,Ireland,Year,2014,false,,,,,,,,,,,,,14029,,,,,,"14,029",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2014,false,,,,,,,,,,,,,14127,,,,,,"14,127",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2014,true,,,,,,,,,,,,,14219,,,,,,"14,219",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2014,false,,,,,,,,,,,,,17388,,,,,,"17,388",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2014,false,,,,,,,,,,,,,175223,,,,,,"175,223",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ESP,Spain,Year,2014,false,,,,,,,,,,,,,176665,,,,,,"176,665",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2014,false,,,,,,,,,,,,,177620,,,,,,"177,620",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2014,false,,,,,,,,,,,,,18385,,,,,,"18,385",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,FIN,Finland,Year,2014,false,,,,,,,,,,,,,18526,,,,,,"18,526",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVK,Slovakia,Year,2014,false,,,,,,,,,,,,,18574,,,,,,"18,574",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GEO,Georgia,Year,2014,false,,,,,,,,,,,,,19270,,,,,,"19,270",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2014,false,,,,,,,,,,,,,19655,,,,,,"19,655",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,CHN,China,Year,2014,false,,,,,,,,,,,,,2374917,,,,,,"2,374,917",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MUS,Mauritius,Year,2014,false,,,,,,,,,,,,,2429,,,,,,"2,429",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CYP,Cyprus,Year,2014,false,,,,,,,,,,,,,2880,,,,,,"2,880",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2014,true,,,,,,,,,,,,,2944,,,,,,"2,944",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2014,true,,,,,,,,,,,,,201,,,,,,201,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SMR,San Marino,Year,2014,true,,,,,,,,,,,,,201,,,,,,201,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2014,false,,,,,,,,,,,,,204,,,,,,204,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,FRA,France,Year,2014,false,,,,,,,,,,,,,205041,,,,,,"205,041",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DNK,Denmark,Year,2014,false,,,,,,,,,,,,,21882,,,,,,"21,882",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SRB,Serbia,Year,2014,false,,,,,,,,,,,,,21900,,,,,,"21,900",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NOR,Norway,Year,2014,false,,,,,,,,,,,,,22754,,,,,,"22,754",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ITA,Italy,Year,2014,false,,,,,,,,,,,,,235889,,,,,,"235,889",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2014,false,,,,,,,,,,,,,244,,,,,,244,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,COK,Cook Islands,Year,2014,true,,,,,,,,,,,,,25,,,,,,25,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,PLW,Palau,Year,2014,false,,,,,,,,,,,,,25,,,,,,25,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,MEX,Mexico,Year,2014,false,,,,,,,,,,,,,267949,,,,,,"267,949",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISR,Israel,Year,2014,false,,,,,,,,,,,,,27185,,,,,,"27,185",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2014,false,,,,,,,,,,,,,28801,,,,,,"28,801",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MCO,Monaco,Year,2014,true,,,,,,,,,,,,,280,,,,,,280,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2014,false,,,,,,,,,,,,,29025,,,,,,"29,025",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2014,false,,,,,,,,,,,,,3015,,,,,,"3,015",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GHA,Ghana,Year,2014,false,,,,,,,,,,,,,3016,,,,,,"3,016",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2014,false,,,,,,,,,,,,,3286,,,,,,"3,286",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2014,false,,,,,,,,,,,,,300075,,,,,,"300,075",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2014,true,,,,,,,,,,,,,309,,,,,,309,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2014,false,,,,,,,,,,,,,31235,,,,,,"31,235",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2014,false,,,,,,,,,,,,,32756,,,,,,"32,756",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HUN,Hungary,Year,2014,false,,,,,,,,,,,,,32791,,,,,,"32,791",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BEL,Belgium,Year,2014,false,,,,,,,,,,,,,33353,,,,,,"33,353",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CHE,Switzerland,Year,2014,false,,,,,,,,,,,,,33785,,,,,,"33,785",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2014,false,,,,,,,,,,,,,331,,,,,,331,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DEU,Germany,Year,2014,false,,,,,,,,,,,,,332695,,,,,,"332,695",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2014,false,,,,,,,,,,,,,35664,,,,,,"35,664",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CHL,Chile,Year,2014,false,,,,,,,,,,,,,36012,,,,,,"36,012",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SWE,Sweden,Year,2014,false,,,,,,,,,,,,,39849,,,,,,"39,849",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2014,false,,,,,,,,,,,,,4267,,,,,,"4,267",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2014,false,,,,,,,,,,,,,4275,,,,,,"4,275",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,EST,Estonia,Year,2014,false,,,,,,,,,,,,,4418,,,,,,"4,418",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CZE,Czechia,Year,2014,false,,,,,,,,,,,,,41671,,,,,,"41,671",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AUT,Austria,Year,2014,false,,,,,,,,,,,,,43385,,,,,,"43,385",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2014,false,,,,,,,,,,,,,45565,,,,,,"45,565",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BLR,Belarus,Year,2014,false,,,,,,,,,,,,,47272,,,,,,"47,272",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,PRT,Portugal,Year,2014,false,,,,,,,,,,,,,47473,,,,,,"47,473",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2014,false,,,,,,,,,,,,,5240,,,,,,"5,240",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2014,false,,,,,,,,,,,,,5495,,,,,,"5,495",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVN,Slovenia,Year,2014,false,,,,,,,,,,,,,5712,,,,,,"5,712",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,NER,Niger,Year,2014,false,,,,,,,,,,,,,523,,,,,,523,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NLD,Netherlands,Year,2014,false,,,,,,,,,,,,,57762,,,,,,"57,762",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2014,false,,,,,,,,,,,,,597062,,,,,,"597,062",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LVA,Latvia,Year,2014,false,,,,,,,,,,,,,6412,,,,,,"6,412",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,TCD,Chad,Year,2014,false,,,,,,,,,,,,,608,,,,,,608,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BDI,Burundi,Year,2014,false,,,,,,,,,,,,,609,,,,,,609,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2014,false,,,,,,,,,,,,,619,,,,,,619,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2014,false,,,,,,,,,,,,,622,,,,,,622,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GRC,Greece,Year,2014,false,,,,,,,,,,,,,63906,,,,,,"63,906",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2014,false,,,,,,,,,,,,,68864,,,,,,"68,864",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2014,false,,,,,,,,,,,,,7426,,,,,,"7,426",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2014,false,,,,,,,,,,,,,71221,,,,,,"71,221",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2014,false,,,,,,,,,,,,,71815,,,,,,"71,815",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2014,true,,,,,,,,,,,,,72237,,,,,,"72,237",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2014,false,,,,,,,,,,,,,75514,,,,,,"75,514",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2014,false,,,,,,,,,,,,,770,,,,,,770,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2014,false,,,,,,,,,,,,,79313,,,,,,"79,313",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ARM,Armenia,Year,2014,false,,,,,,,,,,,,,8425,,,,,,"8,425",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2014,false,,,,,,,,,,,,,8651,,,,,,"8,651",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2014,false,,,,,,,,,,,,,80968,,,,,,"80,968",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2014,false,,,,,,,,,,,,,801,,,,,,801,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CUB,Cuba,Year,2014,false,,,,,,,,,,,,,85563,,,,,,"85,563",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2014,false,,,,,,,,,,,,,857,,,,,,857,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,POL,Poland,Year,2014,false,,,,,,,,,,,,,87687,,,,,,"87,687",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2014,false,,,,,,,,,,,,,87839,,,,,,"87,839",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,KEN,Kenya,Year,2014,false,,,,,,,,,,,,,9149,,,,,,"9,149",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2014,false,,,,,,,,,,,,,9300,,,,,,"9,300",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2014,false,,,,,,,,,,,,,9789,,,,,,"9,789",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2014,false,,,,,,,,,,,,,9954,,,,,,"9,954",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,COL,Colombia,Year,2014,false,,,,,,,,,,,,,90085,,,,,,"90,085",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MLT,Malta,Year,2013,false,,,,,,,,,,,,,1048,,,,,,"1,048",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,RWA,Rwanda,Year,2013,false,,,,,,,,,,,,,1104,,,,,,"1,104",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2013,false,,,,,,,,,,,,,1114,,,,,,"1,114",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISL,Iceland,Year,2013,false,,,,,,,,,,,,,1168,,,,,,"1,168",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2013,false,,,,,,,,,,,,,1254,,,,,,"1,254",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,JAM,Jamaica,Year,2013,false,,,,,,,,,,,,,1337,,,,,,"1,337",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MNE,Montenegro,Year,2013,false,,,,,,,,,,,,,1348,,,,,,"1,348",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2013,false,,,,,,,,,,,,,1452,,,,,,"1,452",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2013,false,,,,,,,,,,,,,1537,,,,,,"1,537",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MLI,Mali,Year,2013,false,,,,,,,,,,,,,1971,,,,,,"1,971",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2013,false,,,,,,,,,,,,,10198,,,,,,"10,198",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2013,false,,,,,,,,,,,,,10953,,,,,,"10,953",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2013,false,,,,,,,,,,,,,107,,,,,,107,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2013,false,,,,,,,,,,,,,108909,,,,,,"108,909",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2013,false,,,,,,,,,,,,,11873,,,,,,"11,873",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2013,false,,,,,,,,,,,,,12055,,,,,,"12,055",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2013,false,,,,,,,,,,,,,12569,,,,,,"12,569",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LTU,Lithuania,Year,2013,false,,,,,,,,,,,,,12650,,,,,,"12,650",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HRV,Croatia,Year,2013,false,,,,,,,,,,,,,12906,,,,,,"12,906",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2013,false,,,,,,,,,,,,,12961,,,,,,"12,961",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2013,false,,,,,,,,,,,,,13296,,,,,,"13,296",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2013,false,,,,,,,,,,,,,13778,,,,,,"13,778",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TUR,Turkey,Year,2013,false,,,,,,,,,,,,,133775,,,,,,"133,775",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2013,false,,,,,,,,,,,,,15181,,,,,,"15,181",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,UKR,Ukraine,Year,2013,false,,,,,,,,,,,,,158344,,,,,,"158,344",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2013,false,,,,,,,,,,,,,16016,,,,,,"16,016",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2013,false,,,,,,,,,,,,,16495,,,,,,"16,495",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SMR,San Marino,Year,2013,false,,,,,,,,,,,,,164,,,,,,164,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,ARG,Argentina,Year,2013,false,,,,,,,,,,,,,166187,,,,,,"166,187",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2013,false,,,,,,,,,,,,,167759,,,,,,"167,759",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,FIN,Finland,Year,2013,false,,,,,,,,,,,,,17930,,,,,,"17,930",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2013,false,,,,,,,,,,,,,172,,,,,,172,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2013,false,,,,,,,,,,,,,173985,,,,,,"173,985",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ESP,Spain,Year,2013,false,,,,,,,,,,,,,177665,,,,,,"177,665",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,IRL,Ireland,Year,2013,false,,,,,,,,,,,,,18160,,,,,,"18,160",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GEO,Georgia,Year,2013,false,,,,,,,,,,,,,18278,,,,,,"18,278",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVK,Slovakia,Year,2013,false,,,,,,,,,,,,,18355,,,,,,"18,355",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2013,false,,,,,,,,,,,,,18697,,,,,,"18,697",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MUS,Mauritius,Year,2013,false,,,,,,,,,,,,,2046,,,,,,"2,046",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,CHN,China,Year,2013,false,,,,,,,,,,,,,2285794,,,,,,"2,285,794",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,HTI,Haiti,Year,2013,false,,,,,,,,,,,,,2392,,,,,,"2,392",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GHA,Ghana,Year,2013,false,,,,,,,,,,,,,2730,,,,,,"2,730",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CYP,Cyprus,Year,2013,false,,,,,,,,,,,,,2754,,,,,,"2,754",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2013,false,,,,,,,,,,,,,2939,,,,,,"2,939",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MWI,Malawi,Year,2013,false,,,,,,,,,,,,,200,,,,,,200,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2013,false,,,,,,,,,,,,,203,,,,,,203,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,FRA,France,Year,2013,false,,,,,,,,,,,,,203249,,,,,,"203,249",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2013,false,,,,,,,,,,,,,21309,,,,,,"21,309",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DNK,Denmark,Year,2013,false,,,,,,,,,,,,,21614,,,,,,"21,614",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NOR,Norway,Year,2013,false,,,,,,,,,,,,,21874,,,,,,"21,874",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2013,true,,,,,,,,,,,,,22,,,,,,22,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SRB,Serbia,Year,2013,false,,,,,,,,,,,,,22248,,,,,,"22,248",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ITA,Italy,Year,2013,false,,,,,,,,,,,,,234918,,,,,,"234,918",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,MEX,Mexico,Year,2013,false,,,,,,,,,,,,,256131,,,,,,"256,131",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISR,Israel,Year,2013,false,,,,,,,,,,,,,26908,,,,,,"26,908",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2013,false,,,,,,,,,,,,,28891,,,,,,"28,891",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MCO,Monaco,Year,2013,false,,,,,,,,,,,,,287,,,,,,287,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2013,false,,,,,,,,,,,,,3523,,,,,,"3,523",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ALB,Albania,Year,2013,false,,,,,,,,,,,,,3709,,,,,,"3,709",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2013,false,,,,,,,,,,,,,308,,,,,,308,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HUN,Hungary,Year,2013,false,,,,,,,,,,,,,31748,,,,,,"31,748",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2013,false,,,,,,,,,,,,,32434,,,,,,"32,434",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CHE,Switzerland,Year,2013,false,,,,,,,,,,,,,32681,,,,,,"32,681",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BEL,Belgium,Year,2013,false,,,,,,,,,,,,,32999,,,,,,"32,999",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DEU,Germany,Year,2013,false,,,,,,,,,,,,,325407,,,,,,"325,407",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CHL,Chile,Year,2013,false,,,,,,,,,,,,,33045,,,,,,"33,045",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,BRA,Brazil,Year,2013,false,,,,,,,,,,,,,378354,,,,,,"378,354",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CZE,Czechia,Year,2013,false,,,,,,,,,,,,,38776,,,,,,"38,776",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SWE,Sweden,Year,2013,false,,,,,,,,,,,,,38823,,,,,,"38,823",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SEN,Senegal,Year,2013,false,,,,,,,,,,,,,4381,,,,,,"4,381",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,EST,Estonia,Year,2013,false,,,,,,,,,,,,,4395,,,,,,"4,395",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AUT,Austria,Year,2013,false,,,,,,,,,,,,,42562,,,,,,"42,562",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2013,false,,,,,,,,,,,,,433,,,,,,433,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BLR,Belarus,Year,2013,false,,,,,,,,,,,,,45736,,,,,,"45,736",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,PRT,Portugal,Year,2013,false,,,,,,,,,,,,,46010,,,,,,"46,010",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2013,false,,,,,,,,,,,,,46916,,,,,,"46,916",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVN,Slovenia,Year,2013,false,,,,,,,,,,,,,5416,,,,,,"5,416",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2013,false,,,,,,,,,,,,,5445,,,,,,"5,445",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2013,false,,,,,,,,,,,,,5804,,,,,,"5,804",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ROU,Romania,Year,2013,false,,,,,,,,,,,,,52828,,,,,,"52,828",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,TON,Tonga,Year,2013,false,,,,,,,,,,,,,55,,,,,,55,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NLD,Netherlands,Year,2013,false,,,,,,,,,,,,,55681,,,,,,"55,681",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BDI,Burundi,Year,2013,false,,,,,,,,,,,,,554,,,,,,554,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,TCD,Chad,Year,2013,false,,,,,,,,,,,,,573,,,,,,573,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2013,false,,,,,,,,,,,,,576580,,,,,,"576,580",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,PAN,Panama,Year,2013,false,,,,,,,,,,,,,6068,,,,,,"6,068",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2013,false,,,,,,,,,,,,,6418,,,,,,"6,418",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LVA,Latvia,Year,2013,false,,,,,,,,,,,,,6423,,,,,,"6,423",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GRC,Greece,Year,2013,false,,,,,,,,,,,,,63736,,,,,,"63,736",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2013,false,,,,,,,,,,,,,64434,,,,,,"64,434",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,NGA,Nigeria,Year,2013,false,,,,,,,,,,,,,65759,,,,,,"65,759",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2013,false,,,,,,,,,,,,,656,,,,,,656,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2013,false,,,,,,,,,,,,,67267,,,,,,"67,267",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2013,false,,,,,,,,,,,,,7211,,,,,,"7,211",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2013,false,,,,,,,,,,,,,7673,,,,,,"7,673",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2013,false,,,,,,,,,,,,,706,,,,,,706,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2013,false,,,,,,,,,,,,,71971,,,,,,"71,971",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2013,false,,,,,,,,,,,,,712,,,,,,712,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2013,false,,,,,,,,,,,,,77974,,,,,,"77,974",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ARM,Armenia,Year,2013,false,,,,,,,,,,,,,8412,,,,,,"8,412",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,KEN,Kenya,Year,2013,false,,,,,,,,,,,,,8682,,,,,,"8,682",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2013,false,,,,,,,,,,,,,8911,,,,,,"8,911",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2013,false,,,,,,,,,,,,,8933,,,,,,"8,933",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2013,false,,,,,,,,,,,,,803,,,,,,803,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CUB,Cuba,Year,2013,false,,,,,,,,,,,,,83698,,,,,,"83,698",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,POL,Poland,Year,2013,false,,,,,,,,,,,,,85246,,,,,,"85,246",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,COL,Colombia,Year,2013,false,,,,,,,,,,,,,85694,,,,,,"85,694",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2013,false,,,,,,,,,,,,,9184,,,,,,"9,184",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2013,false,,,,,,,,,,,,,92,,,,,,92,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,NER,Niger,Year,2013,false,,,,,,,,,,,,,946,,,,,,946,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,JAM,Jamaica,Year,2012,false,,,,,,,,,,,,,1006,,,,,,"1,006",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2012,false,,,,,,,,,,,,,1059,,,,,,"1,059",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISL,Iceland,Year,2012,false,,,,,,,,,,,,,1142,,,,,,"1,142",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2012,false,,,,,,,,,,,,,1160,,,,,,"1,160",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2012,false,,,,,,,,,,,,,1244,,,,,,"1,244",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MNE,Montenegro,Year,2012,false,,,,,,,,,,,,,1276,,,,,,"1,276",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2012,false,,,,,,,,,,,,,1358,,,,,,"1,358",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2012,false,,,,,,,,,,,,,1481,,,,,,"1,481",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2012,false,,,,,,,,,,,,,1489,,,,,,"1,489",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MLI,Mali,Year,2012,false,,,,,,,,,,,,,1704,,,,,,"1,704",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MUS,Mauritius,Year,2012,false,,,,,,,,,,,,,1722,,,,,,"1,722",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2012,false,,,,,,,,,,,,,10225,,,,,,"10,225",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2012,true,,,,,,,,,,,,,102,,,,,,102,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2012,false,,,,,,,,,,,,,104114,,,,,,"104,114",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2012,false,,,,,,,,,,,,,11522,,,,,,"11,522",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2012,false,,,,,,,,,,,,,11787,,,,,,"11,787",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2012,false,,,,,,,,,,,,,11968,,,,,,"11,968",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LTU,Lithuania,Year,2012,false,,,,,,,,,,,,,12604,,,,,,"12,604",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2012,false,,,,,,,,,,,,,12718,,,,,,"12,718",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HRV,Croatia,Year,2012,false,,,,,,,,,,,,,12772,,,,,,"12,772",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,COM,Comoros,Year,2012,false,,,,,,,,,,,,,123,,,,,,123,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TUR,Turkey,Year,2012,false,,,,,,,,,,,,,129772,,,,,,"129,772",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2012,false,,,,,,,,,,,,,13499,,,,,,"13,499",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2012,false,,,,,,,,,,,,,13599,,,,,,"13,599",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2012,false,,,,,,,,,,,,,13925,,,,,,"13,925",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2012,false,,,,,,,,,,,,,15697,,,,,,"15,697",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2012,false,,,,,,,,,,,,,153,,,,,,153,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,UKR,Ukraine,Year,2012,false,,,,,,,,,,,,,158681,,,,,,"158,681",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2012,false,,,,,,,,,,,,,160880,,,,,,"160,880",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SMR,San Marino,Year,2012,false,,,,,,,,,,,,,164,,,,,,164,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,FIN,Finland,Year,2012,false,,,,,,,,,,,,,17790,,,,,,"17,790",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2012,false,,,,,,,,,,,,,172069,,,,,,"172,069",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ESP,Spain,Year,2012,false,,,,,,,,,,,,,178833,,,,,,"178,833",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,IRL,Ireland,Year,2012,false,,,,,,,,,,,,,18167,,,,,,"18,167",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVK,Slovakia,Year,2012,false,,,,,,,,,,,,,18193,,,,,,"18,193",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GEO,Georgia,Year,2012,false,,,,,,,,,,,,,18235,,,,,,"18,235",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2012,false,,,,,,,,,,,,,194,,,,,,194,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,CHN,China,Year,2012,false,,,,,,,,,,,,,2138836,,,,,,"2,138,836",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2012,false,,,,,,,,,,,,,2440,,,,,,"2,440",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GHA,Ghana,Year,2012,false,,,,,,,,,,,,,2486,,,,,,"2,486",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CYP,Cyprus,Year,2012,false,,,,,,,,,,,,,2606,,,,,,"2,606",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,FRA,France,Year,2012,false,,,,,,,,,,,,,201094,,,,,,"201,094",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NOR,Norway,Year,2012,false,,,,,,,,,,,,,21238,,,,,,"21,238",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DNK,Denmark,Year,2012,false,,,,,,,,,,,,,21458,,,,,,"21,458",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SRB,Serbia,Year,2012,false,,,,,,,,,,,,,22315,,,,,,"22,315",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ITA,Italy,Year,2012,false,,,,,,,,,,,,,230621,,,,,,"230,621",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MCO,Monaco,Year,2012,false,,,,,,,,,,,,,235,,,,,,235,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MHL,Marshall Islands,Year,2012,true,,,,,,,,,,,,,24,,,,,,24,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,MEX,Mexico,Year,2012,false,,,,,,,,,,,,,247662,,,,,,"247,662",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISR,Israel,Year,2012,false,,,,,,,,,,,,,26650,,,,,,"26,650",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2012,false,,,,,,,,,,,,,260,,,,,,260,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2012,false,,,,,,,,,,,,,28599,,,,,,"28,599",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2012,false,,,,,,,,,,,,,29832,,,,,,"29,832",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2012,false,,,,,,,,,,,,,292039,,,,,,"292,039",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2012,false,,,,,,,,,,,,,3188,,,,,,"3,188",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,UGA,Uganda,Year,2012,false,,,,,,,,,,,,,3370,,,,,,"3,370",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ALB,Albania,Year,2012,false,,,,,,,,,,,,,3696,,,,,,"3,696",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CHL,Chile,Year,2012,false,,,,,,,,,,,,,30400,,,,,,"30,400",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HUN,Hungary,Year,2012,false,,,,,,,,,,,,,30641,,,,,,"30,641",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CHE,Switzerland,Year,2012,false,,,,,,,,,,,,,31313,,,,,,"31,313",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DEU,Germany,Year,2012,false,,,,,,,,,,,,,317390,,,,,,"317,390",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2012,false,,,,,,,,,,,,,32335,,,,,,"32,335",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BEL,Belgium,Year,2012,false,,,,,,,,,,,,,32583,,,,,,"32,583",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,PER,Peru,Year,2012,false,,,,,,,,,,,,,33669,,,,,,"33,669",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SWE,Sweden,Year,2012,false,,,,,,,,,,,,,37776,,,,,,"37,776",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2012,false,,,,,,,,,,,,,378,,,,,,378,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CZE,Czechia,Year,2012,false,,,,,,,,,,,,,38624,,,,,,"38,624",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2012,false,,,,,,,,,,,,,38718,,,,,,"38,718",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,BLZ,Belize,Year,2012,false,,,,,,,,,,,,,387,,,,,,387,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,EST,Estonia,Year,2012,false,,,,,,,,,,,,,4343,,,,,,"4,343",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AUT,Austria,Year,2012,false,,,,,,,,,,,,,41541,,,,,,"41,541",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,PRT,Portugal,Year,2012,false,,,,,,,,,,,,,44590,,,,,,"44,590",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BLR,Belarus,Year,2012,false,,,,,,,,,,,,,45533,,,,,,"45,533",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2012,false,,,,,,,,,,,,,46,,,,,,46,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2012,false,,,,,,,,,,,,,49853,,,,,,"49,853",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BDI,Burundi,Year,2012,false,,,,,,,,,,,,,498,,,,,,498,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2012,false,,,,,,,,,,,,,5148,,,,,,"5,148",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVN,Slovenia,Year,2012,false,,,,,,,,,,,,,5228,,,,,,"5,228",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2012,false,,,,,,,,,,,,,5755,,,,,,"5,755",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ROU,Romania,Year,2012,false,,,,,,,,,,,,,52362,,,,,,"52,362",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,TCD,Chad,Year,2012,false,,,,,,,,,,,,,528,,,,,,528,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NLD,Netherlands,Year,2012,false,,,,,,,,,,,,,54511,,,,,,"54,511",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2012,false,,,,,,,,,,,,,577640,,,,,,"577,640",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2012,false,,,,,,,,,,,,,596,,,,,,596,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,PAN,Panama,Year,2012,false,,,,,,,,,,,,,6025,,,,,,"6,025",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LVA,Latvia,Year,2012,false,,,,,,,,,,,,,6396,,,,,,"6,396",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2012,false,,,,,,,,,,,,,60413,,,,,,"60,413",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GRC,Greece,Year,2012,false,,,,,,,,,,,,,63838,,,,,,"63,838",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2012,false,,,,,,,,,,,,,65512,,,,,,"65,512",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2012,false,,,,,,,,,,,,,7026,,,,,,"7,026",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2012,false,,,,,,,,,,,,,7055,,,,,,"7,055",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2012,false,,,,,,,,,,,,,7521,,,,,,"7,521",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2012,false,,,,,,,,,,,,,71518,,,,,,"71,518",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2012,false,,,,,,,,,,,,,72007,,,,,,"72,007",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2012,false,,,,,,,,,,,,,73717,,,,,,"73,717",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2012,false,,,,,,,,,,,,,75257,,,,,,"75,257",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2012,false,,,,,,,,,,,,,787,,,,,,787,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,KEN,Kenya,Year,2012,false,,,,,,,,,,,,,8092,,,,,,"8,092",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,PRY,Paraguay,Year,2012,false,,,,,,,,,,,,,8203,,,,,,"8,203",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2012,false,,,,,,,,,,,,,8259,,,,,,"8,259",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ARM,Armenia,Year,2012,false,,,,,,,,,,,,,8355,,,,,,"8,355",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2012,false,,,,,,,,,,,,,8597,,,,,,"8,597",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,COL,Colombia,Year,2012,false,,,,,,,,,,,,,81740,,,,,,"81,740",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BWA,Botswana,Year,2012,false,,,,,,,,,,,,,819,,,,,,819,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CUB,Cuba,Year,2012,false,,,,,,,,,,,,,82065,,,,,,"82,065",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,POL,Poland,Year,2012,false,,,,,,,,,,,,,85025,,,,,,"85,025",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2012,false,,,,,,,,,,,,,85470,,,,,,"85,470",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2012,false,,,,,,,,,,,,,86,,,,,,86,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2012,false,,,,,,,,,,,,,9837,,,,,,"9,837",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SYC,Seychelles,Year,2012,false,,,,,,,,,,,,,93,,,,,,93,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,NER,Niger,Year,2012,false,,,,,,,,,,,,,952,,,,,,952,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MLT,Malta,Year,2012,false,,,,,,,,,,,,,994,,,,,,994,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2011,false,,,,,,,,,,,,,1054,,,,,,"1,054",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISL,Iceland,Year,2011,false,,,,,,,,,,,,,1118,,,,,,"1,118",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2011,false,,,,,,,,,,,,,1208,,,,,,"1,208",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MNE,Montenegro,Year,2011,false,,,,,,,,,,,,,1259,,,,,,"1,259",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2011,false,,,,,,,,,,,,,1268,,,,,,"1,268",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,HTI,Haiti,Year,2011,false,,,,,,,,,,,,,1392,,,,,,"1,392",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2011,false,,,,,,,,,,,,,1434,,,,,,"1,434",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MUS,Mauritius,Year,2011,false,,,,,,,,,,,,,1810,,,,,,"1,810",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MLI,Mali,Year,2011,false,,,,,,,,,,,,,1829,,,,,,"1,829",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2011,false,,,,,,,,,,,,,1842,,,,,,"1,842",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2011,false,,,,,,,,,,,,,10990,,,,,,"10,990",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2011,false,,,,,,,,,,,,,100,,,,,,100,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2011,false,,,,,,,,,,,,,101370,,,,,,"101,370",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SYC,Seychelles,Year,2011,false,,,,,,,,,,,,,107,,,,,,107,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2011,false,,,,,,,,,,,,,109,,,,,,109,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2011,false,,,,,,,,,,,,,109,,,,,,109,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2011,false,,,,,,,,,,,,,11634,,,,,,"11,634",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2011,false,,,,,,,,,,,,,11818,,,,,,"11,818",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LTU,Lithuania,Year,2011,false,,,,,,,,,,,,,12407,,,,,,"12,407",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HRV,Croatia,Year,2011,false,,,,,,,,,,,,,12490,,,,,,"12,490",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2011,false,,,,,,,,,,,,,12614,,,,,,"12,614",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2011,false,,,,,,,,,,,,,12856,,,,,,"12,856",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TUR,Turkey,Year,2011,false,,,,,,,,,,,,,126029,,,,,,"126,029",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2011,false,,,,,,,,,,,,,13247,,,,,,"13,247",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2011,false,,,,,,,,,,,,,13630,,,,,,"13,630",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2011,false,,,,,,,,,,,,,136,,,,,,136,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2011,false,,,,,,,,,,,,,14,,,,,,14,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2011,false,,,,,,,,,,,,,14983,,,,,,"14,983",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2011,false,,,,,,,,,,,,,15,,,,,,15,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2011,false,,,,,,,,,,,,,15077,,,,,,"15,077",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2011,false,,,,,,,,,,,,,152368,,,,,,"152,368",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SMR,San Marino,Year,2011,false,,,,,,,,,,,,,155,,,,,,155,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,UKR,Ukraine,Year,2011,false,,,,,,,,,,,,,158949,,,,,,"158,949",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2011,false,,,,,,,,,,,,,165,,,,,,165,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,FIN,Finland,Year,2011,false,,,,,,,,,,,,,17590,,,,,,"17,590",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVK,Slovakia,Year,2011,false,,,,,,,,,,,,,17849,,,,,,"17,849",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2011,false,,,,,,,,,,,,,170317,,,,,,"170,317",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ESP,Spain,Year,2011,false,,,,,,,,,,,,,179267,,,,,,"179,267",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GEO,Georgia,Year,2011,false,,,,,,,,,,,,,18366,,,,,,"18,366",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,IRL,Ireland,Year,2011,false,,,,,,,,,,,,,18795,,,,,,"18,795",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,FRA,France,Year,2011,false,,,,,,,,,,,,,199094,,,,,,"199,094",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,CHN,China,Year,2011,false,,,,,,,,,,,,,2020154,,,,,,"2,020,154",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2011,false,,,,,,,,,,,,,2431,,,,,,"2,431",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GHA,Ghana,Year,2011,false,,,,,,,,,,,,,2486,,,,,,"2,486",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CYP,Cyprus,Year,2011,false,,,,,,,,,,,,,2529,,,,,,"2,529",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NOR,Norway,Year,2011,false,,,,,,,,,,,,,20744,,,,,,"20,744",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DNK,Denmark,Year,2011,false,,,,,,,,,,,,,21108,,,,,,"21,108",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SRB,Serbia,Year,2011,false,,,,,,,,,,,,,22412,,,,,,"22,412",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MCO,Monaco,Year,2011,false,,,,,,,,,,,,,231,,,,,,231,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ITA,Italy,Year,2011,false,,,,,,,,,,,,,231481,,,,,,"231,481",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,MEX,Mexico,Year,2011,false,,,,,,,,,,,,,243008,,,,,,"243,008",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,ECU,Ecuador,Year,2011,false,,,,,,,,,,,,,25277,,,,,,"25,277",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISR,Israel,Year,2011,false,,,,,,,,,,,,,26297,,,,,,"26,297",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CHL,Chile,Year,2011,false,,,,,,,,,,,,,27323,,,,,,"27,323",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2011,false,,,,,,,,,,,,,28077,,,,,,"28,077",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2011,false,,,,,,,,,,,,,28384,,,,,,"28,384",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HUN,Hungary,Year,2011,false,,,,,,,,,,,,,29500,,,,,,"29,500",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2011,false,,,,,,,,,,,,,292,,,,,,292,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2011,false,,,,,,,,,,,,,3131,,,,,,"3,131",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2011,false,,,,,,,,,,,,,3220,,,,,,"3,220",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2011,false,,,,,,,,,,,,,3291,,,,,,"3,291",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ALB,Albania,Year,2011,false,,,,,,,,,,,,,3578,,,,,,"3,578",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CHE,Switzerland,Year,2011,false,,,,,,,,,,,,,30327,,,,,,"30,327",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2011,false,,,,,,,,,,,,,31441,,,,,,"31,441",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DEU,Germany,Year,2011,false,,,,,,,,,,,,,311223,,,,,,"311,223",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2011,false,,,,,,,,,,,,,317,,,,,,317,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BEL,Belgium,Year,2011,false,,,,,,,,,,,,,32182,,,,,,"32,182",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MHL,Marshall Islands,Year,2011,false,,,,,,,,,,,,,33,,,,,,33,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BDI,Burundi,Year,2011,false,,,,,,,,,,,,,357,,,,,,357,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2011,false,,,,,,,,,,,,,36607,,,,,,"36,607",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SWE,Sweden,Year,2011,false,,,,,,,,,,,,,36751,,,,,,"36,751",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,BRA,Brazil,Year,2011,false,,,,,,,,,,,,,365231,,,,,,"365,231",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CZE,Czechia,Year,2011,false,,,,,,,,,,,,,38171,,,,,,"38,171",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,EST,Estonia,Year,2011,false,,,,,,,,,,,,,4372,,,,,,"4,372",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2011,false,,,,,,,,,,,,,4771,,,,,,"4,771",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2011,false,,,,,,,,,,,,,4803,,,,,,"4,803",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AUT,Austria,Year,2011,false,,,,,,,,,,,,,40913,,,,,,"40,913",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,PRT,Portugal,Year,2011,false,,,,,,,,,,,,,43523,,,,,,"43,523",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BLR,Belarus,Year,2011,false,,,,,,,,,,,,,44827,,,,,,"44,827",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVN,Slovenia,Year,2011,false,,,,,,,,,,,,,5121,,,,,,"5,121",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,PAN,Panama,Year,2011,false,,,,,,,,,,,,,5551,,,,,,"5,551",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2011,false,,,,,,,,,,,,,5649,,,,,,"5,649",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ROU,Romania,Year,2011,false,,,,,,,,,,,,,51153,,,,,,"51,153",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NLD,Netherlands,Year,2011,false,,,,,,,,,,,,,52295,,,,,,"52,295",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BEN,Benin,Year,2011,false,,,,,,,,,,,,,546,,,,,,546,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2011,false,,,,,,,,,,,,,57313,,,,,,"57,313",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2011,false,,,,,,,,,,,,,6328,,,,,,"6,328",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LVA,Latvia,Year,2011,false,,,,,,,,,,,,,6456,,,,,,"6,456",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2011,false,,,,,,,,,,,,,6881,,,,,,"6,881",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2011,false,,,,,,,,,,,,,607812,,,,,,"607,812",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2011,false,,,,,,,,,,,,,608,,,,,,608,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2011,false,,,,,,,,,,,,,620,,,,,,620,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GRC,Greece,Year,2011,false,,,,,,,,,,,,,64145,,,,,,"64,145",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2011,false,,,,,,,,,,,,,65111,,,,,,"65,111",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2011,false,,,,,,,,,,,,,69559,,,,,,"69,559",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,KEN,Kenya,Year,2011,false,,,,,,,,,,,,,7549,,,,,,"7,549",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2011,false,,,,,,,,,,,,,7584,,,,,,"7,584",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2011,false,,,,,,,,,,,,,7781,,,,,,"7,781",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2011,false,,,,,,,,,,,,,7943,,,,,,"7,943",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2011,false,,,,,,,,,,,,,72547,,,,,,"72,547",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,COG,Congo,Year,2011,false,,,,,,,,,,,,,723,,,,,,723,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2011,false,,,,,,,,,,,,,74100,,,,,,"74,100",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,COL,Colombia,Year,2011,false,,,,,,,,,,,,,78222,,,,,,"78,222",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CUB,Cuba,Year,2011,false,,,,,,,,,,,,,78622,,,,,,"78,622",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ARM,Armenia,Year,2011,false,,,,,,,,,,,,,8249,,,,,,"8,249",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BWA,Botswana,Year,2011,false,,,,,,,,,,,,,819,,,,,,819,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,BHS,Bahamas,Year,2011,false,,,,,,,,,,,,,830,,,,,,830,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,POL,Poland,Year,2011,false,,,,,,,,,,,,,84221,,,,,,"84,221",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2011,false,,,,,,,,,,,,,9646,,,,,,"9,646",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2011,false,,,,,,,,,,,,,9848,,,,,,"9,848",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MLT,Malta,Year,2011,false,,,,,,,,,,,,,935,,,,,,935,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISL,Iceland,Year,2010,false,,,,,,,,,,,,,1142,,,,,,"1,142",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2010,false,,,,,,,,,,,,,1145,,,,,,"1,145",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2010,false,,,,,,,,,,,,,1178,,,,,,"1,178",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MNE,Montenegro,Year,2010,false,,,,,,,,,,,,,1276,,,,,,"1,276",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2010,false,,,,,,,,,,,,,1406,,,,,,"1,406",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MUS,Mauritius,Year,2010,false,,,,,,,,,,,,,1500,,,,,,"1,500",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MLI,Mali,Year,2010,false,,,,,,,,,,,,,1536,,,,,,"1,536",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2010,false,,,,,,,,,,,,,1615,,,,,,"1,615",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,CMR,Cameroon,Year,2010,false,,,,,,,,,,,,,1712,,,,,,"1,712",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,CHN,China,Year,2010,false,,,,,,,,,,,,,1972840,,,,,,"1,972,840",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2010,false,,,,,,,,,,,,,10554,,,,,,"10,554",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SYC,Seychelles,Year,2010,false,,,,,,,,,,,,,100,,,,,,100,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2010,false,,,,,,,,,,,,,11,,,,,,11,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2010,false,,,,,,,,,,,,,11412,,,,,,"11,412",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2010,false,,,,,,,,,,,,,11570,,,,,,"11,570",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2010,false,,,,,,,,,,,,,11583,,,,,,"11,583",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2010,false,,,,,,,,,,,,,119497,,,,,,"119,497",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2010,false,,,,,,,,,,,,,12137,,,,,,"12,137",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LTU,Lithuania,Year,2010,false,,,,,,,,,,,,,12226,,,,,,"12,226",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HRV,Croatia,Year,2010,false,,,,,,,,,,,,,12304,,,,,,"12,304",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2010,false,,,,,,,,,,,,,12685,,,,,,"12,685",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2010,false,,,,,,,,,,,,,12778,,,,,,"12,778",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2010,false,,,,,,,,,,,,,12996,,,,,,"12,996",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,TUR,Turkey,Year,2010,false,,,,,,,,,,,,,123447,,,,,,"123,447",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ERI,Eritrea,Year,2010,false,,,,,,,,,,,,,129,,,,,,129,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2010,false,,,,,,,,,,,,,136,,,,,,136,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,LSO,Lesotho,Year,2010,false,,,,,,,,,,,,,138,,,,,,138,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2010,false,,,,,,,,,,,,,14668,,,,,,"14,668",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2010,false,,,,,,,,,,,,,144901,,,,,,"144,901",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,UKR,Ukraine,Year,2010,false,,,,,,,,,,,,,159495,,,,,,"159,495",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2010,false,,,,,,,,,,,,,16212,,,,,,"16,212",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2010,false,,,,,,,,,,,,,166674,,,,,,"166,674",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,FIN,Finland,Year,2010,false,,,,,,,,,,,,,17521,,,,,,"17,521",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ESP,Spain,Year,2010,false,,,,,,,,,,,,,175033,,,,,,"175,033",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVK,Slovakia,Year,2010,false,,,,,,,,,,,,,18110,,,,,,"18,110",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GEO,Georgia,Year,2010,false,,,,,,,,,,,,,18227,,,,,,"18,227",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,IRL,Ireland,Year,2010,false,,,,,,,,,,,,,18821,,,,,,"18,821",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2010,false,,,,,,,,,,,,,19738,,,,,,"19,738",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,GHA,Ghana,Year,2010,false,,,,,,,,,,,,,2325,,,,,,"2,325",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CYP,Cyprus,Year,2010,false,,,,,,,,,,,,,2399,,,,,,"2,399",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2010,false,,,,,,,,,,,,,2402,,,,,,"2,402",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,HND,Honduras,Year,2010,false,,,,,,,,,,,,,2454,,,,,,"2,454",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NOR,Norway,Year,2010,false,,,,,,,,,,,,,20114,,,,,,"20,114",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DNK,Denmark,Year,2010,false,,,,,,,,,,,,,20670,,,,,,"20,670",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,FRA,France,Year,2010,false,,,,,,,,,,,,,212132,,,,,,"212,132",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SRB,Serbia,Year,2010,false,,,,,,,,,,,,,22316,,,,,,"22,316",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ITA,Italy,Year,2010,false,,,,,,,,,,,,,226384,,,,,,"226,384",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,MEX,Mexico,Year,2010,false,,,,,,,,,,,,,228028,,,,,,"228,028",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CHL,Chile,Year,2010,false,,,,,,,,,,,,,24455,,,,,,"24,455",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ISR,Israel,Year,2010,false,,,,,,,,,,,,,25791,,,,,,"25,791",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2010,false,,,,,,,,,,,,,26244,,,,,,"26,244",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2010,false,,,,,,,,,,,,,26435,,,,,,"26,435",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2010,false,,,,,,,,,,,,,27963,,,,,,"27,963",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,HUN,Hungary,Year,2010,false,,,,,,,,,,,,,28686,,,,,,"28,686",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2010,false,,,,,,,,,,,,,283548,,,,,,"283,548",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2010,false,,,,,,,,,,,,,287,,,,,,287,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,PLW,Palau,Year,2010,false,,,,,,,,,,,,,29,,,,,,29,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CHE,Switzerland,Year,2010,false,,,,,,,,,,,,,29803,,,,,,"29,803",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2010,false,,,,,,,,,,,,,292,,,,,,292,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2010,false,,,,,,,,,,,,,3294,,,,,,"3,294",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ALB,Albania,Year,2010,false,,,,,,,,,,,,,3640,,,,,,"3,640",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,DEU,Germany,Year,2010,false,,,,,,,,,,,,,303645,,,,,,"303,645",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2010,false,,,,,,,,,,,,,31194,,,,,,"31,194",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,ECU,Ecuador,Year,2010,false,,,,,,,,,,,,,31690,,,,,,"31,690",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BEL,Belgium,Year,2010,false,,,,,,,,,,,,,31815,,,,,,"31,815",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MHL,Marshall Islands,Year,2010,false,,,,,,,,,,,,,32,,,,,,32,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2010,false,,,,,,,,,,,,,32979,,,,,,"32,979",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,TGO,Togo,Year,2010,false,,,,,,,,,,,,,325,,,,,,325,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2010,false,,,,,,,,,,,,,33085,,,,,,"33,085",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2010,false,,,,,,,,,,,,,33736,,,,,,"33,736",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SWE,Sweden,Year,2010,false,,,,,,,,,,,,,35714,,,,,,"35,714",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,CZE,Czechia,Year,2010,false,,,,,,,,,,,,,37661,,,,,,"37,661",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2010,false,,,,,,,,,,,,,376,,,,,,376,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MDG,Madagascar,Year,2010,false,,,,,,,,,,,,,4130,,,,,,"4,130",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2010,false,,,,,,,,,,,,,4239,,,,,,"4,239",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,EST,Estonia,Year,2010,false,,,,,,,,,,,,,4319,,,,,,"4,319",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2010,false,,,,,,,,,,,,,4406,,,,,,"4,406",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,SVN,Slovenia,Year,2010,false,,,,,,,,,,,,,4979,,,,,,"4,979",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,AUT,Austria,Year,2010,false,,,,,,,,,,,,,40381,,,,,,"40,381",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2010,false,,,,,,,,,,,,,41,,,,,,41,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BDI,Burundi,Year,2010,false,,,,,,,,,,,,,418,,,,,,418,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,PRT,Portugal,Year,2010,false,,,,,,,,,,,,,42126,,,,,,"42,126",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,NLD,Netherlands,Year,2010,false,,,,,,,,,,,,,49242,,,,,,"49,242",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,COG,Congo,Year,2010,false,,,,,,,,,,,,,494,,,,,,494,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,PAN,Panama,Year,2010,false,,,,,,,,,,,,,5121,,,,,,"5,121",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2010,false,,,,,,,,,,,,,5541,,,,,,"5,541",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2010,false,,,,,,,,,,,,,5862,,,,,,"5,862",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ROU,Romania,Year,2010,false,,,,,,,,,,,,,50778,,,,,,"50,778",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BEN,Benin,Year,2010,false,,,,,,,,,,,,,513,,,,,,513,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,GUY,Guyana,Year,2010,false,,,,,,,,,,,,,515,,,,,,515,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2010,false,,,,,,,,,,,,,525,,,,,,525,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2010,false,,,,,,,,,,,,,53643,,,,,,"53,643",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,MRT,Mauritania,Year,2010,false,,,,,,,,,,,,,547,,,,,,547,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2010,false,,,,,,,,,,,,,563,,,,,,563,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,TON,Tonga,Year,2010,false,,,,,,,,,,,,,58,,,,,,58,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,LVA,Latvia,Year,2010,false,,,,,,,,,,,,,6517,,,,,,"6,517",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2010,false,,,,,,,,,,,,,6665,,,,,,"6,665",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2010,false,,,,,,,,,,,,,6901,,,,,,"6,901",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2010,false,,,,,,,,,,,,,6919,,,,,,"6,919",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2010,false,,,,,,,,,,,,,62458,,,,,,"62,458",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2010,false,,,,,,,,,,,,,63835,,,,,,"63,835",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2010,false,,,,,,,,,,,,,64,,,,,,64,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,GRC,Greece,Year,2010,false,,,,,,,,,,,,,64032,,,,,,"64,032",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2010,false,,,,,,,,,,,,,66014,,,,,,"66,014",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,KEN,Kenya,Year,2010,false,,,,,,,,,,,,,7129,,,,,,"7,129",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2010,false,,,,,,,,,,,,,7269,,,,,,"7,269",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2010,false,,,,,,,,,,,,,7497,,,,,,"7,497",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2010,false,,,,,,,,,,,,,713,,,,,,713,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2010,false,,,,,,,,,,,,,715800,,,,,,"715,800",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2010,false,,,,,,,,,,,,,72,,,,,,72,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2010,false,,,,,,,,,,,,,72522,,,,,,"72,522",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2010,false,,,,,,,,,,,,,74061,,,,,,"74,061",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,COL,Colombia,Year,2010,false,,,,,,,,,,,,,74584,,,,,,"74,584",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AMR,Americas,Country,CUB,Cuba,Year,2010,false,,,,,,,,,,,,,76506,,,,,,"76,506",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,ARM,Armenia,Year,2010,false,,,,,,,,,,,,,8177,,,,,,"8,177",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,BWA,Botswana,Year,2010,false,,,,,,,,,,,,,819,,,,,,819,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,POL,Poland,Year,2010,false,,,,,,,,,,,,,83201,,,,,,"83,201",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,ZMB,Zambia,Year,2010,false,,,,,,,,,,,,,836,,,,,,836,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MLT,Malta,Year,2010,false,,,,,,,,,,,,,892,,,,,,892,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2010,false,,,,,,,,,,,,,9030,,,,,,"9,030",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2010,false,,,,,,,,,,,,,9728,,,,,,"9,728",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,AFR,Africa,Country,LBR,Liberia,Year,2010,false,,,,,,,,,,,,,90,,,,,,90,,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2010,false,,,,,,,,,,,,,98293,,,,,,"98,293",,,EN,2022-01-23T15:00:00.000Z
+HWF_0002,Medical doctors (number),numeric,WPR,Western Pacific,Country,NIU,Niue,Year,2008,true,,,,,,,,,,,,,3,,,,,,3,,,EN,2022-01-23T15:00:00.000Z
