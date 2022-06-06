@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="medicalworkers",
-    version="0.0.3",
+    version="0.0.4",
     author="kanako akamine",
     author_email="s2022068@stu.musashino-u.ac.jp",
     description="A package for visualizing medical workers of up to 4 countries",
@@ -23,7 +23,7 @@ setuptools.setup(
     package_dir={"": "src"},
     py_modules=['medicalworkers'],
     packages=setuptools.find_packages(where="src"),
-    python_requires=">=3.7",
+    python_requires=">=3.8",
     entry_points = {
         'console_scripts': [
             'medicalworkers = medicalworkers:main'
