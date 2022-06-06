@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="medicalworkers",
-    version="0.0.4",
+    version="0.0.5",
     author="kanako akamine",
     author_email="s2022068@stu.musashino-u.ac.jp",
     description="A package for visualizing medical workers of up to 4 countries",

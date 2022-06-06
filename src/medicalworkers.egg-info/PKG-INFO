@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: medicalworkers
-Version: 0.0.3
+Version: 0.0.4
 Summary: A package for visualizing medical workers of up to 4 countries
 Home-page: https://github.com/kanako68/medicalworkers
 Author: kanako akamine
@@ -29,5 +29,5 @@ Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
-Requires-Python: >=3.7
+Requires-Python: >=3.8
 Description-Content-Type: text/markdown
