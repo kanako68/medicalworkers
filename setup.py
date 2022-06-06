@@ -21,7 +21,7 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     package_dir={"": "src"},
-    py_modules=['milspend'],
+    py_modules=['medicalworkers'],
     packages=setuptools.find_packages(where="src"),
     python_requires=">=3.7",
     entry_points = {
