@@ -5,8 +5,8 @@ This Python Package visualizes the number of citizens held per healthcare profes
 
 ## Example of use
 
-'''
+```
 pip install medicalworkers
 python medicalworkers.py Japan France India 
 
-''''
+```
