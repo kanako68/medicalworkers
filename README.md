@@ -15,6 +15,6 @@ Up to 4 countries can be visualized.
 
 ```
 pip install medicalworkers
-python medicalworkers.py Japan France India 
+python medicalworkers Japan France India 
 
 ```
